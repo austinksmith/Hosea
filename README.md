@@ -31,18 +31,41 @@ Installation Instructions:
 
 3. Run the appropriate installer script:
 
-   - Windows: Double-click `setup_hosea.bat`
+   - Windows: Double-click 
+   ```sh
+   setup_hosea.bat
+   ```
    - macOS/Linux: Open terminal and run:
+     ```sh
      chmod +x setup_hosea.sh
+     ```
+     ```sh
      ./setup_hosea.sh
+     ```
 
 4. Once installed, activate the environment:
 
-   - Windows: call hosea-env\Scripts\activate
-   - macOS/Linux: source hosea-env/bin/activate
+   - Windows: 
+        ```sh 
+            call hosea-env\Scripts\activate
+        ```
+   - macOS/Linux: 
+
+        ```sh
+            source hosea-env/bin/activate
+        ```
 
 5. Run the program:
-   python hosea.py
+   
+   ```sh
+    python hosea.py
+   ```
+
+   or if you have multiple python versions installed specify python3.10
+
+   ```sh
+    python3.10 hosea.py
+   ```
 
 Resources:
 - Program: hosea.py
