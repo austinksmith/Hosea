@@ -27,9 +27,9 @@ print(f"Using device: {DEVICE}")
 MIC_INDEX = 4
 
 # Directory for saving logs and recordings
-AUDIO_LOG_DIR = "radio_audio_logs"
+AUDIO_LOG_DIR = "radio_audio_sookie_kittycat_logs"
 os.makedirs(AUDIO_LOG_DIR, exist_ok=True)
-SPEECH_LOG_FILE = "detected_speech_log.csv"
+SPEECH_LOG_FILE = "detected_speech_sookie_kittycat_log.csv"
 
 # Number of parallel workers for processing audio
 NUM_WORKERS = 4
@@ -116,15 +116,17 @@ def apply_binaural_shift(audio_data, phase_shift=0.1):
 
 # Apply AM demodulation
 def am_demodulate(audio_data):
+    # Make sure audio data is contiguous
     if isinstance(audio_data, np.ndarray) and not audio_data.flags.c_contiguous:
         audio_data = np.ascontiguousarray(audio_data)
         
-    # Run entirely on CPU
-    audio_tensor = torch.tensor(audio_data, dtype=torch.float32, device='cpu')
+    audio_tensor = torch.tensor(audio_data, dtype=torch.float32, device=DEVICE)
+
+    # Construct Hilbert transform using FFT method
     N = audio_tensor.shape[0]
     f = torch.fft.fft(audio_tensor)
-
-    h = torch.zeros(N, dtype=torch.complex64)
+    
+    h = torch.zeros(N, device=DEVICE, dtype=torch.complex64)
     if N % 2 == 0:
         h[0] = 1
         h[1:N//2] = 2
@@ -136,21 +138,21 @@ def am_demodulate(audio_data):
     analytic = torch.fft.ifft(f * h)
     envelope = torch.abs(analytic)
 
-    result = envelope.numpy().astype(np.int16)
-    return np.ascontiguousarray(result)
+    result = envelope.cpu().numpy().astype(np.int16)
+    return np.ascontiguousarray(result)  # Ensure result is contiguous
 
 def fm_demodulate(audio_data):
     # Make sure audio data is contiguous
     if isinstance(audio_data, np.ndarray) and not audio_data.flags.c_contiguous:
         audio_data = np.ascontiguousarray(audio_data)
         
-    audio_tensor = torch.tensor(audio_data, dtype=torch.float32, device="cpu")
+    audio_tensor = torch.tensor(audio_data, dtype=torch.float32, device=DEVICE)
 
     # Hilbert transform via FFT
     N = audio_tensor.shape[0]
     f = torch.fft.fft(audio_tensor)
     
-    h = torch.zeros(N, device="cpu", dtype=torch.complex64)
+    h = torch.zeros(N, device=DEVICE, dtype=torch.complex64)
     if N % 2 == 0:
         h[0] = 1
         h[1:N//2] = 2
@@ -176,13 +178,13 @@ def ssb_demodulate(audio_data):
     if isinstance(audio_data, np.ndarray) and not audio_data.flags.c_contiguous:
         audio_data = np.ascontiguousarray(audio_data)
         
-    audio_tensor = torch.tensor(audio_data, dtype=torch.float32, device="cpu")
+    audio_tensor = torch.tensor(audio_data, dtype=torch.float32, device=DEVICE)
 
     # Construct analytic signal via Hilbert-like transform
     N = audio_tensor.shape[0]
     f = torch.fft.fft(audio_tensor)
     
-    h = torch.zeros(N, device="cpu", dtype=torch.complex64)
+    h = torch.zeros(N, device=DEVICE, dtype=torch.complex64)
     if N % 2 == 0:
         h[0] = 1
         h[1:N//2] = 2
@@ -295,7 +297,7 @@ def record_audio(queue):
     try:
         while True:
             frames = []
-            for _ in range(0, int(44100 / 1024 * 5)):
+            for _ in range(0, int(44100 / 1024 * 30)):
               data = stream.read(1024, exception_on_overflow=False)
               frames.append(data)
             
