@@ -1,0 +1,13 @@
+[2025-02-14 08:17:35] Detected Speech: hello | Audio: audio_logs/speech_2025-02-14_08-17-34.wav
+[2025-02-14 08:19:21] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-19-20.wav
+[2025-02-14 08:19:25] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-19-24.wav
+[2025-02-14 08:20:46] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-20-46.wav
+[2025-02-14 08:21:08] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-21-08.wav
+[2025-02-14 08:21:14] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-21-13.wav
+[2025-02-14 08:21:19] Detected Speech: hello | Audio: audio_logs/speech_2025-02-14_08-21-18.wav
+[2025-02-14 08:21:50] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-21-50.wav
+[2025-02-14 08:21:57] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-21-55.wav
+[2025-02-14 08:21:58] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-21-57.wav
+[2025-02-14 08:22:01] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-22-00.wav
+[2025-02-14 08:22:08] Detected Speech: hello | Audio: audio_logs/speech_2025-02-14_08-22-07.wav
+[2025-02-14 08:22:14] Detected Speech: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-14_08-22-12.wav

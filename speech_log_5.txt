@@ -1,0 +1,8 @@
+[2025-02-12 16:21:05] Detected Speech: hello
+[2025-02-12 16:22:26] Detected Speech: we got you
+[2025-02-12 16:24:18] Detected Speech: set alarm for 9
+[2025-02-12 16:24:29] Detected Speech: hello
+[2025-02-13 11:24:55] Detected Speech: hello
+[2025-02-13 11:25:09] Detected Speech: hello
+[2025-02-13 11:32:39] Detected Speech: hello how are you today
+[2025-02-14 07:42:12] Detected Speech: hello

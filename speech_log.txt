@@ -1,0 +1,22 @@
+[2025-02-12 06:04:16] Detected Speech: hello
+[2025-02-12 06:04:27] Detected Speech: Suki
+[2025-02-12 06:08:46] Detected Speech: hello
+[2025-02-12 06:09:41] Detected Speech: hello
+[2025-02-12 06:13:42] Detected Speech: hello
+[2025-02-12 06:13:47] Detected Speech: nice try
+[2025-02-12 06:13:52] Detected Speech: good morning
+[2025-02-12 06:13:58] Detected Speech: dad's cat
+[2025-02-12 06:14:02] Detected Speech: text
+[2025-02-12 06:15:29] Detected Speech: hello
+[2025-02-12 06:15:34] Detected Speech: hello
+[2025-02-12 06:16:04] Detected Speech: text
+[2025-02-12 06:16:09] Detected Speech: Nat's cat
+[2025-02-12 06:16:15] Detected Speech: fast cat
+[2025-02-12 06:16:20] Detected Speech: VyStar
+[2025-02-12 06:16:24] Detected Speech: massage chair
+[2025-02-12 06:16:44] Detected Speech: nice try but that's tap
+[2025-02-12 06:17:04] Detected Speech: bobcat
+[2025-02-12 06:17:20] Detected Speech: Last Cab
+[2025-02-12 06:18:29] Detected Speech: office
+[2025-02-12 06:20:06] Detected Speech: hello
+[2025-02-12 06:20:25] Detected Speech: there is no it

@@ -1,0 +1,1145 @@
+[2025-02-12_11-29-04-497] Confidence: 0.90 | Text: hello | Audio: audio_logs/speech_2025-02-12_11-29-04-497.wav
+[2025-02-12_11-29-09-511] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-09-511.wav
+[2025-02-12_11-29-14-523] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-14-523.wav
+[2025-02-12_11-29-19-537] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-19-537.wav
+[2025-02-12_11-29-24-550] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-24-550.wav
+[2025-02-12_11-29-29-563] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-29-563.wav
+[2025-02-12_11-29-34-577] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-34-577.wav
+[2025-02-12_11-29-39-590] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-39-590.wav
+[2025-02-12_11-29-44-604] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-44-604.wav
+[2025-02-12_11-29-49-639] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-49-639.wav
+[2025-02-12_11-29-54-652] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-54-652.wav
+[2025-02-12_11-29-59-665] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-29-59-665.wav
+[2025-02-12_11-30-04-679] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-04-679.wav
+[2025-02-12_11-30-09-692] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-09-692.wav
+[2025-02-12_11-30-14-705] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-14-705.wav
+[2025-02-12_11-30-19-719] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-19-719.wav
+[2025-02-12_11-30-24-732] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-24-732.wav
+[2025-02-12_11-30-29-746] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-29-746.wav
+[2025-02-12_11-30-34-760] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-34-760.wav
+[2025-02-12_11-30-39-794] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-39-794.wav
+[2025-02-12_11-30-44-807] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-44-807.wav
+[2025-02-12_11-30-49-821] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-49-821.wav
+[2025-02-12_11-30-54-834] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-54-834.wav
+[2025-02-12_11-30-59-848] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-30-59-848.wav
+[2025-02-12_11-31-04-861] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-04-861.wav
+[2025-02-12_11-31-09-875] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-09-875.wav
+[2025-02-12_11-31-14-888] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-14-888.wav
+[2025-02-12_11-31-19-901] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-19-901.wav
+[2025-02-12_11-31-24-915] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-24-915.wav
+[2025-02-12_11-31-29-949] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-29-949.wav
+[2025-02-12_11-31-34-963] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-34-963.wav
+[2025-02-12_11-31-39-976] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-39-976.wav
+[2025-02-12_11-31-44-990] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-44-990.wav
+[2025-02-12_11-31-50-003] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-50-003.wav
+[2025-02-12_11-31-55-016] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-31-55-016.wav
+[2025-02-12_11-32-00-029] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-00-029.wav
+[2025-02-12_11-32-05-043] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-05-043.wav
+[2025-02-12_11-32-10-056] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-10-056.wav
+[2025-02-12_11-32-15-091] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-15-091.wav
+[2025-02-12_11-32-20-104] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-20-104.wav
+[2025-02-12_11-32-25-118] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-25-118.wav
+[2025-02-12_11-32-30-131] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-30-131.wav
+[2025-02-12_11-32-35-144] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-35-144.wav
+[2025-02-12_11-32-40-158] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-40-158.wav
+[2025-02-12_11-32-45-171] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-45-171.wav
+[2025-02-12_11-32-50-185] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-50-185.wav
+[2025-02-12_11-32-55-198] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-32-55-198.wav
+[2025-02-12_11-33-00-212] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-33-00-212.wav
+[2025-02-12_11-33-05-246] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-33-05-246.wav
+[2025-02-12_11-33-10-260] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-33-10-260.wav
+[2025-02-12_11-34-00-080] Confidence: 0.90 | Text: hello | Audio: audio_logs/speech_2025-02-12_11-34-00-080.wav
+[2025-02-12_11-34-05-093] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-05-093.wav
+[2025-02-12_11-34-10-104] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-10-104.wav
+[2025-02-12_11-34-15-118] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-15-118.wav
+[2025-02-12_11-34-20-131] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-20-131.wav
+[2025-02-12_11-34-25-143] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-25-143.wav
+[2025-02-12_11-34-30-156] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-30-156.wav
+[2025-02-12_11-34-35-169] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-35-169.wav
+[2025-02-12_11-34-40-182] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-34-40-182.wav
+[2025-02-12_11-35-35-585] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-35-35-585.wav
+[2025-02-12_11-35-40-661] Confidence: 0.90 | Text: hello | Audio: audio_logs/speech_2025-02-12_11-35-40-661.wav
+[2025-02-12_11-35-45-695] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-35-45-695.wav
+[2025-02-12_11-35-50-773] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-35-50-773.wav
+[2025-02-12_11-35-55-807] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-35-55-807.wav
+[2025-02-12_11-36-00-884] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-00-884.wav
+[2025-02-12_11-36-05-918] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-05-918.wav
+[2025-02-12_11-36-10-995] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-10-995.wav
+[2025-02-12_11-36-16-029] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-16-029.wav
+[2025-02-12_11-36-21-107] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-21-107.wav
+[2025-02-12_11-36-26-141] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-26-141.wav
+[2025-02-12_11-36-31-217] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-31-217.wav
+[2025-02-12_11-36-36-252] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-36-252.wav
+[2025-02-12_11-36-41-330] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-41-330.wav
+[2025-02-12_11-36-46-363] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-46-363.wav
+[2025-02-12_11-36-51-441] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-51-441.wav
+[2025-02-12_11-36-56-475] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-36-56-475.wav
+[2025-02-12_11-37-01-552] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-01-552.wav
+[2025-02-12_11-37-06-586] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-06-586.wav
+[2025-02-12_11-37-11-663] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-11-663.wav
+[2025-02-12_11-37-16-698] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-16-698.wav
+[2025-02-12_11-37-21-774] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-21-774.wav
+[2025-02-12_11-37-26-809] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-26-809.wav
+[2025-02-12_11-37-31-886] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-31-886.wav
+[2025-02-12_11-37-36-920] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-36-920.wav
+[2025-02-12_11-37-41-997] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-41-997.wav
+[2025-02-12_11-37-47-032] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-47-032.wav
+[2025-02-12_11-37-52-109] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-52-109.wav
+[2025-02-12_11-37-57-143] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-37-57-143.wav
+[2025-02-12_11-38-02-220] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-02-220.wav
+[2025-02-12_11-38-07-255] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-07-255.wav
+[2025-02-12_11-38-12-332] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-12-332.wav
+[2025-02-12_11-38-17-366] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-17-366.wav
+[2025-02-12_11-38-22-443] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-22-443.wav
+[2025-02-12_11-38-27-478] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-27-478.wav
+[2025-02-12_11-38-32-554] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-32-554.wav
+[2025-02-12_11-38-37-588] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-37-588.wav
+[2025-02-12_11-38-42-666] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-42-666.wav
+[2025-02-12_11-38-47-700] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-47-700.wav
+[2025-02-12_11-38-52-778] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-52-778.wav
+[2025-02-12_11-38-57-812] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-38-57-812.wav
+[2025-02-12_11-39-02-889] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-02-889.wav
+[2025-02-12_11-39-07-923] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-07-923.wav
+[2025-02-12_11-39-13-001] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-13-001.wav
+[2025-02-12_11-39-18-035] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-18-035.wav
+[2025-02-12_11-39-23-112] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-23-112.wav
+[2025-02-12_11-39-28-146] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-28-146.wav
+[2025-02-12_11-39-33-223] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-33-223.wav
+[2025-02-12_11-39-38-258] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-38-258.wav
+[2025-02-12_11-39-43-335] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-43-335.wav
+[2025-02-12_11-39-48-370] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-48-370.wav
+[2025-02-12_11-39-53-446] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-53-446.wav
+[2025-02-12_11-39-58-481] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-39-58-481.wav
+[2025-02-12_11-40-03-558] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-03-558.wav
+[2025-02-12_11-40-08-592] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-08-592.wav
+[2025-02-12_11-40-13-669] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-13-669.wav
+[2025-02-12_11-40-18-706] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-18-706.wav
+[2025-02-12_11-40-23-781] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-23-781.wav
+[2025-02-12_11-40-28-815] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-28-815.wav
+[2025-02-12_11-40-33-892] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-33-892.wav
+[2025-02-12_11-40-38-927] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-38-927.wav
+[2025-02-12_11-40-44-005] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-44-005.wav
+[2025-02-12_11-40-49-039] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-49-039.wav
+[2025-02-12_11-40-54-116] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-40-54-116.wav
+[2025-02-12_11-43-27-284] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-43-27-284.wav
+[2025-02-12_11-43-32-361] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-43-32-361.wav
+[2025-02-12_11-43-37-395] Confidence: 0.90 | Text: hello | Audio: audio_logs/speech_2025-02-12_11-43-37-395.wav
+[2025-02-12_11-43-42-472] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-43-42-472.wav
+[2025-02-12_11-43-47-507] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-43-47-507.wav
+[2025-02-12_11-43-52-584] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-43-52-584.wav
+[2025-02-12_11-43-57-619] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-43-57-619.wav
+[2025-02-12_11-44-02-696] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-02-696.wav
+[2025-02-12_11-44-07-730] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-07-730.wav
+[2025-02-12_11-44-12-807] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-12-807.wav
+[2025-02-12_11-44-17-842] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-17-842.wav
+[2025-02-12_11-44-22-919] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-22-919.wav
+[2025-02-12_11-44-27-954] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-27-954.wav
+[2025-02-12_11-44-33-031] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-33-031.wav
+[2025-02-12_11-44-38-066] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-38-066.wav
+[2025-02-12_11-44-43-143] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-43-143.wav
+[2025-02-12_11-44-48-177] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-48-177.wav
+[2025-02-12_11-44-53-254] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-53-254.wav
+[2025-02-12_11-44-58-289] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-44-58-289.wav
+[2025-02-12_11-45-03-367] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-03-367.wav
+[2025-02-12_11-45-08-401] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-08-401.wav
+[2025-02-12_11-45-13-477] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-13-477.wav
+[2025-02-12_11-45-18-513] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-18-513.wav
+[2025-02-12_11-45-23-590] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-23-590.wav
+[2025-02-12_11-45-28-624] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-28-624.wav
+[2025-02-12_11-45-33-701] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-33-701.wav
+[2025-02-12_11-45-38-736] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-38-736.wav
+[2025-02-12_11-45-43-813] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-43-813.wav
+[2025-02-12_11-45-48-848] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-48-848.wav
+[2025-02-12_11-45-53-925] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-53-925.wav
+[2025-02-12_11-45-58-960] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-45-58-960.wav
+[2025-02-12_11-46-04-037] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-04-037.wav
+[2025-02-12_11-46-09-071] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-09-071.wav
+[2025-02-12_11-46-14-148] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-14-148.wav
+[2025-02-12_11-46-19-183] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-19-183.wav
+[2025-02-12_11-46-24-260] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-24-260.wav
+[2025-02-12_11-46-29-295] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-29-295.wav
+[2025-02-12_11-46-34-372] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-34-372.wav
+[2025-02-12_11-46-39-407] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-39-407.wav
+[2025-02-12_11-46-44-484] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-44-484.wav
+[2025-02-12_11-46-49-519] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-49-519.wav
+[2025-02-12_11-46-54-596] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-54-596.wav
+[2025-02-12_11-46-59-630] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-46-59-630.wav
+[2025-02-12_11-47-04-707] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-04-707.wav
+[2025-02-12_11-47-09-742] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-09-742.wav
+[2025-02-12_11-47-14-819] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-14-819.wav
+[2025-02-12_11-47-19-854] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-19-854.wav
+[2025-02-12_11-47-24-931] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-24-931.wav
+[2025-02-12_11-47-29-966] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-29-966.wav
+[2025-02-12_11-47-35-043] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-35-043.wav
+[2025-02-12_11-47-40-078] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-40-078.wav
+[2025-02-12_11-47-45-155] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-45-155.wav
+[2025-02-12_11-47-50-189] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-50-189.wav
+[2025-02-12_11-47-55-267] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-47-55-267.wav
+[2025-02-12_11-48-00-301] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-00-301.wav
+[2025-02-12_11-48-05-378] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-05-378.wav
+[2025-02-12_11-48-10-413] Confidence: 0.90 | Text: 1962 | Audio: audio_logs/speech_2025-02-12_11-48-10-413.wav
+[2025-02-12_11-48-15-490] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-15-490.wav
+[2025-02-12_11-48-20-525] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-20-525.wav
+[2025-02-12_11-48-25-602] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-25-602.wav
+[2025-02-12_11-48-30-637] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-30-637.wav
+[2025-02-12_11-48-35-714] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-35-714.wav
+[2025-02-12_11-48-40-749] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-40-749.wav
+[2025-02-12_11-48-45-826] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-45-826.wav
+[2025-02-12_11-48-50-860] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-50-860.wav
+[2025-02-12_11-48-55-938] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-48-55-938.wav
+[2025-02-12_11-49-00-972] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-00-972.wav
+[2025-02-12_11-49-06-049] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-06-049.wav
+[2025-02-12_11-49-11-084] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-11-084.wav
+[2025-02-12_11-49-16-161] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-16-161.wav
+[2025-02-12_11-49-21-196] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-21-196.wav
+[2025-02-12_11-49-26-273] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-26-273.wav
+[2025-02-12_11-49-31-308] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-31-308.wav
+[2025-02-12_11-49-36-385] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-36-385.wav
+[2025-02-12_11-49-41-419] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-41-419.wav
+[2025-02-12_11-49-46-497] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-46-497.wav
+[2025-02-12_11-49-51-531] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-51-531.wav
+[2025-02-12_11-49-56-609] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-49-56-609.wav
+[2025-02-12_11-50-01-643] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-01-643.wav
+[2025-02-12_11-50-06-720] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-06-720.wav
+[2025-02-12_11-50-11-755] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-11-755.wav
+[2025-02-12_11-50-16-832] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-16-832.wav
+[2025-02-12_11-50-21-867] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-21-867.wav
+[2025-02-12_11-50-26-944] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-26-944.wav
+[2025-02-12_11-50-31-978] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-31-978.wav
+[2025-02-12_11-50-37-056] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-37-056.wav
+[2025-02-12_11-50-42-091] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-42-091.wav
+[2025-02-12_11-50-47-168] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-47-168.wav
+[2025-02-12_11-50-52-203] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-52-203.wav
+[2025-02-12_11-50-57-280] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-50-57-280.wav
+[2025-02-12_11-51-02-314] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-02-314.wav
+[2025-02-12_11-51-07-392] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-07-392.wav
+[2025-02-12_11-51-12-426] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-12-426.wav
+[2025-02-12_11-51-17-504] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-17-504.wav
+[2025-02-12_11-51-22-538] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-22-538.wav
+[2025-02-12_11-51-27-615] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-27-615.wav
+[2025-02-12_11-51-32-650] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-32-650.wav
+[2025-02-12_11-51-37-727] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-37-727.wav
+[2025-02-12_11-51-42-762] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-42-762.wav
+[2025-02-12_11-51-47-839] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-47-839.wav
+[2025-02-12_11-51-52-874] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-52-874.wav
+[2025-02-12_11-51-57-951] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-51-57-951.wav
+[2025-02-12_11-52-02-986] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-02-986.wav
+[2025-02-12_11-52-08-063] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-08-063.wav
+[2025-02-12_11-52-13-098] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-13-098.wav
+[2025-02-12_11-52-18-174] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-18-174.wav
+[2025-02-12_11-52-23-210] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-23-210.wav
+[2025-02-12_11-52-28-287] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-28-287.wav
+[2025-02-12_11-52-33-321] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-33-321.wav
+[2025-02-12_11-52-38-399] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-38-399.wav
+[2025-02-12_11-52-43-433] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-43-433.wav
+[2025-02-12_11-52-48-511] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-48-511.wav
+[2025-02-12_11-52-53-545] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-53-545.wav
+[2025-02-12_11-52-58-622] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-52-58-622.wav
+[2025-02-12_11-53-03-657] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-03-657.wav
+[2025-02-12_11-53-08-734] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-08-734.wav
+[2025-02-12_11-53-13-769] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-13-769.wav
+[2025-02-12_11-53-18-846] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-18-846.wav
+[2025-02-12_11-53-23-881] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-23-881.wav
+[2025-02-12_11-53-28-958] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-28-958.wav
+[2025-02-12_11-53-33-993] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-33-993.wav
+[2025-02-12_11-53-39-070] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-39-070.wav
+[2025-02-12_11-53-44-105] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-44-105.wav
+[2025-02-12_11-53-49-182] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-49-182.wav
+[2025-02-12_11-53-54-217] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-54-217.wav
+[2025-02-12_11-53-59-294] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-53-59-294.wav
+[2025-02-12_11-54-04-328] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-04-328.wav
+[2025-02-12_11-54-09-406] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-09-406.wav
+[2025-02-12_11-54-14-440] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-14-440.wav
+[2025-02-12_11-54-19-518] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-19-518.wav
+[2025-02-12_11-54-24-552] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-24-552.wav
+[2025-02-12_11-54-29-630] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-29-630.wav
+[2025-02-12_11-54-34-664] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-34-664.wav
+[2025-02-12_11-54-39-741] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-39-741.wav
+[2025-02-12_11-54-44-776] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-44-776.wav
+[2025-02-12_11-54-49-853] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-49-853.wav
+[2025-02-12_11-54-54-888] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-54-888.wav
+[2025-02-12_11-54-59-965] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-54-59-965.wav
+[2025-02-12_11-55-05-000] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-05-000.wav
+[2025-02-12_11-55-10-077] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-10-077.wav
+[2025-02-12_11-55-15-112] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-15-112.wav
+[2025-02-12_11-55-20-189] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-20-189.wav
+[2025-02-12_11-55-25-224] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-25-224.wav
+[2025-02-12_11-55-30-301] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-30-301.wav
+[2025-02-12_11-55-35-336] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-35-336.wav
+[2025-02-12_11-55-40-413] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-40-413.wav
+[2025-02-12_11-55-45-447] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-45-447.wav
+[2025-02-12_11-55-50-525] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-50-525.wav
+[2025-02-12_11-55-55-559] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-55-55-559.wav
+[2025-02-12_11-56-00-637] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-00-637.wav
+[2025-02-12_11-56-05-671] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-05-671.wav
+[2025-02-12_11-56-10-749] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-10-749.wav
+[2025-02-12_11-56-15-783] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-15-783.wav
+[2025-02-12_11-56-20-861] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-20-861.wav
+[2025-02-12_11-56-25-895] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-25-895.wav
+[2025-02-12_11-56-30-973] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-30-973.wav
+[2025-02-12_11-56-36-007] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-36-007.wav
+[2025-02-12_11-56-41-085] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-41-085.wav
+[2025-02-12_11-56-46-119] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-46-119.wav
+[2025-02-12_11-56-51-196] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-51-196.wav
+[2025-02-12_11-56-56-231] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-56-56-231.wav
+[2025-02-12_11-57-01-308] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-01-308.wav
+[2025-02-12_11-57-06-343] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-06-343.wav
+[2025-02-12_11-57-11-420] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-11-420.wav
+[2025-02-12_11-57-16-455] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-16-455.wav
+[2025-02-12_11-57-21-532] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-21-532.wav
+[2025-02-12_11-57-26-567] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-26-567.wav
+[2025-02-12_11-57-31-644] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-31-644.wav
+[2025-02-12_11-57-36-679] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-36-679.wav
+[2025-02-12_11-57-41-756] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-41-756.wav
+[2025-02-12_11-57-46-791] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-46-791.wav
+[2025-02-12_11-57-51-868] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-51-868.wav
+[2025-02-12_11-57-56-903] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-57-56-903.wav
+[2025-02-12_11-58-01-980] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-01-980.wav
+[2025-02-12_11-58-07-015] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-07-015.wav
+[2025-02-12_11-58-12-092] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-12-092.wav
+[2025-02-12_11-58-17-127] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-17-127.wav
+[2025-02-12_11-58-22-204] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-22-204.wav
+[2025-02-12_11-58-27-238] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-27-238.wav
+[2025-02-12_11-58-32-316] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-32-316.wav
+[2025-02-12_11-58-37-350] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-37-350.wav
+[2025-02-12_11-58-42-428] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-42-428.wav
+[2025-02-12_11-58-47-462] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-47-462.wav
+[2025-02-12_11-58-52-540] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-52-540.wav
+[2025-02-12_11-58-57-574] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-58-57-574.wav
+[2025-02-12_11-59-02-652] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-02-652.wav
+[2025-02-12_11-59-07-686] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-07-686.wav
+[2025-02-12_11-59-12-764] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-12-764.wav
+[2025-02-12_11-59-17-798] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-17-798.wav
+[2025-02-12_11-59-22-875] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-22-875.wav
+[2025-02-12_11-59-27-910] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-27-910.wav
+[2025-02-12_11-59-32-988] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-32-988.wav
+[2025-02-12_11-59-38-022] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-38-022.wav
+[2025-02-12_11-59-43-099] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-43-099.wav
+[2025-02-12_11-59-48-134] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-48-134.wav
+[2025-02-12_11-59-53-211] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-53-211.wav
+[2025-02-12_11-59-58-246] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_11-59-58-246.wav
+[2025-02-12_12-00-03-323] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-03-323.wav
+[2025-02-12_12-00-08-358] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-08-358.wav
+[2025-02-12_12-00-13-435] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-13-435.wav
+[2025-02-12_12-00-18-470] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-18-470.wav
+[2025-02-12_12-00-23-547] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-23-547.wav
+[2025-02-12_12-00-28-582] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-28-582.wav
+[2025-02-12_12-00-33-659] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-33-659.wav
+[2025-02-12_12-00-38-694] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-38-694.wav
+[2025-02-12_12-00-43-771] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-43-771.wav
+[2025-02-12_12-00-48-806] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-48-806.wav
+[2025-02-12_12-00-53-883] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-53-883.wav
+[2025-02-12_12-00-58-918] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-00-58-918.wav
+[2025-02-12_12-01-03-995] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-03-995.wav
+[2025-02-12_12-01-09-030] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-09-030.wav
+[2025-02-12_12-01-14-107] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-14-107.wav
+[2025-02-12_12-01-19-142] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-19-142.wav
+[2025-02-12_12-01-24-219] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-24-219.wav
+[2025-02-12_12-01-29-254] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-29-254.wav
+[2025-02-12_12-01-34-331] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-34-331.wav
+[2025-02-12_12-01-39-366] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-39-366.wav
+[2025-02-12_12-01-44-443] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-44-443.wav
+[2025-02-12_12-01-49-478] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-49-478.wav
+[2025-02-12_12-01-54-555] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-54-555.wav
+[2025-02-12_12-01-59-589] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-01-59-589.wav
+[2025-02-12_12-02-04-667] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-04-667.wav
+[2025-02-12_12-02-09-701] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-09-701.wav
+[2025-02-12_12-02-14-779] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-14-779.wav
+[2025-02-12_12-02-19-813] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-19-813.wav
+[2025-02-12_12-02-24-891] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-24-891.wav
+[2025-02-12_12-02-29-925] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-29-925.wav
+[2025-02-12_12-02-35-003] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-35-003.wav
+[2025-02-12_12-02-40-037] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-40-037.wav
+[2025-02-12_12-02-45-115] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-45-115.wav
+[2025-02-12_12-02-50-149] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-50-149.wav
+[2025-02-12_12-02-55-227] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-02-55-227.wav
+[2025-02-12_12-03-00-261] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-00-261.wav
+[2025-02-12_12-03-05-339] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-05-339.wav
+[2025-02-12_12-03-10-373] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-10-373.wav
+[2025-02-12_12-03-15-450] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-15-450.wav
+[2025-02-12_12-03-20-485] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-20-485.wav
+[2025-02-12_12-03-25-562] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-25-562.wav
+[2025-02-12_12-03-30-597] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-30-597.wav
+[2025-02-12_12-03-35-674] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-35-674.wav
+[2025-02-12_12-03-40-709] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-40-709.wav
+[2025-02-12_12-03-52-105] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-52-105.wav
+[2025-02-12_12-03-53-437] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-53-437.wav
+[2025-02-12_12-03-55-898] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-03-55-898.wav
+[2025-02-12_12-04-00-933] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-00-933.wav
+[2025-02-12_12-04-06-010] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-06-010.wav
+[2025-02-12_12-04-11-045] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-11-045.wav
+[2025-02-12_12-04-16-122] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-16-122.wav
+[2025-02-12_12-04-21-157] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-21-157.wav
+[2025-02-12_12-04-26-234] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-26-234.wav
+[2025-02-12_12-04-31-269] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-31-269.wav
+[2025-02-12_12-04-36-346] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-36-346.wav
+[2025-02-12_12-04-41-381] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-41-381.wav
+[2025-02-12_12-04-46-458] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-46-458.wav
+[2025-02-12_12-04-51-493] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-51-493.wav
+[2025-02-12_12-04-56-570] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-04-56-570.wav
+[2025-02-12_12-05-01-605] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-01-605.wav
+[2025-02-12_12-05-06-682] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-06-682.wav
+[2025-02-12_12-05-11-717] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-11-717.wav
+[2025-02-12_12-05-16-794] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-16-794.wav
+[2025-02-12_12-05-21-829] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-21-829.wav
+[2025-02-12_12-05-26-906] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-26-906.wav
+[2025-02-12_12-05-31-941] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-31-941.wav
+[2025-02-12_12-05-37-018] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-37-018.wav
+[2025-02-12_12-05-42-053] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-42-053.wav
+[2025-02-12_12-05-47-130] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-47-130.wav
+[2025-02-12_12-05-52-165] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-52-165.wav
+[2025-02-12_12-05-57-242] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-05-57-242.wav
+[2025-02-12_12-06-02-277] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-02-277.wav
+[2025-02-12_12-06-07-354] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-07-354.wav
+[2025-02-12_12-06-12-389] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-12-389.wav
+[2025-02-12_12-06-17-466] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-17-466.wav
+[2025-02-12_12-06-22-501] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-22-501.wav
+[2025-02-12_12-06-27-578] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-27-578.wav
+[2025-02-12_12-06-32-612] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-32-612.wav
+[2025-02-12_12-06-37-690] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-37-690.wav
+[2025-02-12_12-06-42-725] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-42-725.wav
+[2025-02-12_12-06-47-802] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-47-802.wav
+[2025-02-12_12-06-52-836] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-52-836.wav
+[2025-02-12_12-06-57-914] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-06-57-914.wav
+[2025-02-12_12-07-02-948] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-02-948.wav
+[2025-02-12_12-07-08-026] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-08-026.wav
+[2025-02-12_12-07-13-060] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-13-060.wav
+[2025-02-12_12-07-18-138] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-18-138.wav
+[2025-02-12_12-07-23-173] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-23-173.wav
+[2025-02-12_12-07-28-251] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-28-251.wav
+[2025-02-12_12-07-33-286] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-33-286.wav
+[2025-02-12_12-07-38-364] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-38-364.wav
+[2025-02-12_12-07-43-399] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-43-399.wav
+[2025-02-12_12-07-48-454] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-48-454.wav
+[2025-02-12_12-07-53-511] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-53-511.wav
+[2025-02-12_12-07-58-567] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-07-58-567.wav
+[2025-02-12_12-08-03-624] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-03-624.wav
+[2025-02-12_12-08-08-681] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-08-681.wav
+[2025-02-12_12-08-13-738] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-13-738.wav
+[2025-02-12_12-08-18-794] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-18-794.wav
+[2025-02-12_12-08-23-850] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-23-850.wav
+[2025-02-12_12-08-28-907] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-28-907.wav
+[2025-02-12_12-08-33-963] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-33-963.wav
+[2025-02-12_12-08-39-020] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-39-020.wav
+[2025-02-12_12-08-44-076] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-44-076.wav
+[2025-02-12_12-08-49-133] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-49-133.wav
+[2025-02-12_12-08-54-189] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-08-54-189.wav
+[2025-02-12_12-08-59-245] Confidence: 0.90 | Text: Boston Massachusetts | Audio: audio_logs/speech_2025-02-12_12-08-59-245.wav
+[2025-02-12_12-09-04-302] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-04-302.wav
+[2025-02-12_12-09-09-358] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-09-358.wav
+[2025-02-12_12-09-14-414] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-14-414.wav
+[2025-02-12_12-09-19-471] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-19-471.wav
+[2025-02-12_12-09-24-527] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-24-527.wav
+[2025-02-12_12-09-29-584] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-29-584.wav
+[2025-02-12_12-09-34-640] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-34-640.wav
+[2025-02-12_12-09-39-696] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-39-696.wav
+[2025-02-12_12-09-44-753] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-44-753.wav
+[2025-02-12_12-09-49-809] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-49-809.wav
+[2025-02-12_12-09-54-865] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-54-865.wav
+[2025-02-12_12-09-59-922] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-09-59-922.wav
+[2025-02-12_12-10-04-978] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-04-978.wav
+[2025-02-12_12-10-10-034] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-10-034.wav
+[2025-02-12_12-10-15-091] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-15-091.wav
+[2025-02-12_12-10-20-147] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-20-147.wav
+[2025-02-12_12-10-25-203] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-25-203.wav
+[2025-02-12_12-10-30-260] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-30-260.wav
+[2025-02-12_12-10-35-316] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-35-316.wav
+[2025-02-12_12-10-40-372] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-40-372.wav
+[2025-02-12_12-10-45-429] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-45-429.wav
+[2025-02-12_12-10-50-485] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-50-485.wav
+[2025-02-12_12-10-55-541] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-10-55-541.wav
+[2025-02-12_12-11-00-598] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-00-598.wav
+[2025-02-12_12-11-05-654] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-05-654.wav
+[2025-02-12_12-11-10-710] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-10-710.wav
+[2025-02-12_12-11-15-767] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-15-767.wav
+[2025-02-12_12-11-20-823] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-20-823.wav
+[2025-02-12_12-11-25-879] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-25-879.wav
+[2025-02-12_12-11-30-936] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-30-936.wav
+[2025-02-12_12-11-35-992] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-35-992.wav
+[2025-02-12_12-11-41-048] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-41-048.wav
+[2025-02-12_12-11-46-104] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-46-104.wav
+[2025-02-12_12-11-51-161] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-51-161.wav
+[2025-02-12_12-11-56-217] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-11-56-217.wav
+[2025-02-12_12-12-01-273] Confidence: 0.90 | Text: what's | Audio: audio_logs/speech_2025-02-12_12-12-01-273.wav
+[2025-02-12_12-12-06-330] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-06-330.wav
+[2025-02-12_12-12-11-386] Confidence: 0.90 | Text: every organization | Audio: audio_logs/speech_2025-02-12_12-12-11-386.wav
+[2025-02-12_12-12-16-442] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-16-442.wav
+[2025-02-12_12-12-21-498] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-21-498.wav
+[2025-02-12_12-12-26-555] Confidence: 0.90 | Text: what does Stephanie talkative | Audio: audio_logs/speech_2025-02-12_12-12-26-555.wav
+[2025-02-12_12-12-31-611] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-31-611.wav
+[2025-02-12_12-12-36-667] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-36-667.wav
+[2025-02-12_12-12-41-724] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-41-724.wav
+[2025-02-12_12-12-46-780] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-46-780.wav
+[2025-02-12_12-12-51-836] Confidence: 0.90 | Text: that's why he wants to switch careers when you come alive | Audio: audio_logs/speech_2025-02-12_12-12-51-836.wav
+[2025-02-12_12-12-56-892] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-12-56-892.wav
+[2025-02-12_12-13-01-949] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-01-949.wav
+[2025-02-12_12-13-07-004] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-07-004.wav
+[2025-02-12_12-13-12-061] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-12-061.wav
+[2025-02-12_12-13-17-117] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-17-117.wav
+[2025-02-12_12-13-22-174] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-22-174.wav
+[2025-02-12_12-13-27-230] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-27-230.wav
+[2025-02-12_12-13-32-286] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-32-286.wav
+[2025-02-12_12-13-37-342] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-37-342.wav
+[2025-02-12_12-13-42-399] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-42-399.wav
+[2025-02-12_12-13-47-455] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-47-455.wav
+[2025-02-12_12-13-52-511] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-52-511.wav
+[2025-02-12_12-13-57-567] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-13-57-567.wav
+[2025-02-12_12-14-02-624] Confidence: 0.90 | Text: shut up T-Mobile | Audio: audio_logs/speech_2025-02-12_12-14-02-624.wav
+[2025-02-12_12-14-07-680] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-07-680.wav
+[2025-02-12_12-14-12-736] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-12-736.wav
+[2025-02-12_12-14-17-792] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-17-792.wav
+[2025-02-12_12-14-22-849] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-22-849.wav
+[2025-02-12_12-14-27-905] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-27-905.wav
+[2025-02-12_12-14-32-961] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-32-961.wav
+[2025-02-12_12-14-38-017] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-38-017.wav
+[2025-02-12_12-14-43-073] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-43-073.wav
+[2025-02-12_12-14-48-130] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-48-130.wav
+[2025-02-12_12-14-53-186] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-53-186.wav
+[2025-02-12_12-14-58-242] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-14-58-242.wav
+[2025-02-12_12-15-03-298] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-15-03-298.wav
+[2025-02-12_12-15-08-355] Confidence: 0.90 | Text: hey I got a question | Audio: audio_logs/speech_2025-02-12_12-15-08-355.wav
+[2025-02-12_12-15-13-411] Confidence: 0.90 | Text: it's kind of a specialized question I'm looking | Audio: audio_logs/speech_2025-02-12_12-15-13-411.wav
+[2025-02-12_12-15-18-467] Confidence: 0.90 | Text: for a ultrasound microphone | Audio: audio_logs/speech_2025-02-12_12-15-18-467.wav
+[2025-02-12_12-15-23-523] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-15-23-523.wav
+[2025-02-12_12-15-28-579] Confidence: 0.90 | Text: do you know me any story | Audio: audio_logs/speech_2025-02-12_12-15-28-579.wav
+[2025-02-12_12-15-33-636] Confidence: 0.90 | Text: information | Audio: audio_logs/speech_2025-02-12_12-15-33-636.wav
+[2025-02-12_12-15-38-692] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-15-38-692.wav
+[2025-02-12_12-15-43-748] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-15-43-748.wav
+[2025-02-12_12-15-48-804] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-15-48-804.wav
+[2025-02-12_12-15-53-860] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-15-53-860.wav
+[2025-02-12_12-15-58-917] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-15-58-917.wav
+[2025-02-12_12-16-03-973] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-03-973.wav
+[2025-02-12_12-16-09-029] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-09-029.wav
+[2025-02-12_12-16-14-085] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-14-085.wav
+[2025-02-12_12-16-19-141] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-19-141.wav
+[2025-02-12_12-16-24-198] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-24-198.wav
+[2025-02-12_12-16-29-254] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-29-254.wav
+[2025-02-12_12-16-34-310] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-34-310.wav
+[2025-02-12_12-16-39-366] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-39-366.wav
+[2025-02-12_12-16-44-422] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-44-422.wav
+[2025-02-12_12-16-49-479] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-49-479.wav
+[2025-02-12_12-16-54-535] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-54-535.wav
+[2025-02-12_12-16-59-590] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-16-59-590.wav
+[2025-02-12_12-17-04-647] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-17-04-647.wav
+[2025-02-12_12-17-09-703] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-17-09-703.wav
+[2025-02-12_12-17-14-759] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-17-14-759.wav
+[2025-02-12_12-17-19-816] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-17-19-816.wav
+[2025-02-12_12-17-24-872] Confidence: 0.90 | Text: Ghostbusters songs | Audio: audio_logs/speech_2025-02-12_12-17-24-872.wav
+[2025-02-12_12-17-29-928] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-17-29-928.wav
+[2025-02-12_12-17-34-984] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-17-34-984.wav
+[2025-02-12_12-17-40-040] Confidence: 0.90 | Text: play Christmas songs for baby by the other pick up anything in the | Audio: audio_logs/speech_2025-02-12_12-17-40-040.wav
+[2025-02-12_12-17-45-096] Confidence: 0.90 | Text: range between like | Audio: audio_logs/speech_2025-02-12_12-17-45-096.wav
+[2025-02-12_12-17-50-153] Confidence: 0.90 | Text: how about 20,000 Hertz up till like possibly | Audio: audio_logs/speech_2025-02-12_12-17-50-153.wav
+[2025-02-12_12-17-55-209] Confidence: 0.90 | Text: 65,000 Hertz | Audio: audio_logs/speech_2025-02-12_12-17-55-209.wav
+[2025-02-12_12-18-00-265] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-18-00-265.wav
+[2025-02-12_12-18-05-321] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-18-05-321.wav
+[2025-02-12_12-18-10-441] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-18-10-441.wav
+[2025-02-12_12-18-15-497] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-18-15-497.wav
+[2025-02-12_12-18-20-554] Confidence: 0.90 | Text: hey | Audio: audio_logs/speech_2025-02-12_12-18-20-554.wav
+[2025-02-12_12-18-25-610] Confidence: 0.90 | Text: do you guys carry ultrasound microphones or | Audio: audio_logs/speech_2025-02-12_12-18-25-610.wav
+[2025-02-12_12-18-30-666] Confidence: 0.90 | Text: infrasound microphone | Audio: audio_logs/speech_2025-02-12_12-18-30-666.wav
+[2025-02-12_12-18-35-722] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-18-35-722.wav
+[2025-02-12_12-18-40-778] Confidence: 0.90 | Text: I found one place online that that sells | Audio: audio_logs/speech_2025-02-12_12-18-40-778.wav
+[2025-02-12_12-18-45-834] Confidence: 0.90 | Text: turn on microphone but it didn't look like a very high quality one it just look like something | Audio: audio_logs/speech_2025-02-12_12-18-45-834.wav
+[2025-02-12_12-18-50-891] Confidence: 0.90 | Text: almost looks like a Wi-Fi | Audio: audio_logs/speech_2025-02-12_12-18-50-891.wav
+[2025-02-12_12-18-55-947] Confidence: 0.90 | Text: I don't know | Audio: audio_logs/speech_2025-02-12_12-18-55-947.wav
+[2025-02-12_12-19-01-003] Confidence: 0.90 | Text: no not not like culture sound like Imaging | Audio: audio_logs/speech_2025-02-12_12-19-01-003.wav
+[2025-02-12_12-19-06-059] Confidence: 0.90 | Text: so basically ult | Audio: audio_logs/speech_2025-02-12_12-19-06-059.wav
+[2025-02-12_12-19-11-115] Confidence: 0.90 | Text: you know any anything about normal human hearing | Audio: audio_logs/speech_2025-02-12_12-19-11-115.wav
+[2025-02-12_12-19-16-171] Confidence: 0.90 | Text: you know anything about | Audio: audio_logs/speech_2025-02-12_12-19-16-171.wav
+[2025-02-12_12-19-21-227] Confidence: 0.90 | Text: 1,000 HZ | Audio: audio_logs/speech_2025-02-12_12-19-21-227.wav
+[2025-02-12_12-19-26-284] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-19-26-284.wav
+[2025-02-12_12-19-31-340] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-19-31-340.wav
+[2025-02-12_12-19-36-396] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-19-36-396.wav
+[2025-02-12_12-19-41-452] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-19-41-452.wav
+[2025-02-12_12-19-46-508] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-19-46-508.wav
+[2025-02-12_12-19-51-564] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-19-51-564.wav
+[2025-02-12_12-19-56-620] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-19-56-620.wav
+[2025-02-12_12-20-01-677] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-01-677.wav
+[2025-02-12_12-20-06-733] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-06-733.wav
+[2025-02-12_12-20-11-789] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-11-789.wav
+[2025-02-12_12-20-16-845] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-16-845.wav
+[2025-02-12_12-20-21-901] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-21-901.wav
+[2025-02-12_12-20-26-957] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-26-957.wav
+[2025-02-12_12-20-32-014] Confidence: 0.90 | Text: 1 minute | Audio: audio_logs/speech_2025-02-12_12-20-32-014.wav
+[2025-02-12_12-20-37-070] Confidence: 0.90 | Text: play pull up the website real quick | Audio: audio_logs/speech_2025-02-12_12-20-37-070.wav
+[2025-02-12_12-20-42-126] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-42-126.wav
+[2025-02-12_12-20-47-182] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-20-47-182.wav
+[2025-02-12_12-20-52-238] Confidence: 0.90 | Text: it's from a website called | Audio: audio_logs/speech_2025-02-12_12-20-52-238.wav
+[2025-02-12_12-20-57-294] Confidence: 0.90 | Text: download tronic and the brand name is | Audio: audio_logs/speech_2025-02-12_12-20-57-294.wav
+[2025-02-12_12-21-02-350] Confidence: 0.90 | Text: Ultra Mike and it's | Audio: audio_logs/speech_2025-02-12_12-21-02-350.wav
+[2025-02-12_12-21-07-406] Confidence: 0.90 | Text: 84 K Evo and it says | Audio: audio_logs/speech_2025-02-12_12-21-07-406.wav
+[2025-02-12_12-21-12-462] Confidence: 0.90 | Text: pics of | Audio: audio_logs/speech_2025-02-12_12-21-12-462.wav
+[2025-02-12_12-21-17-519] Confidence: 0.90 | Text: all the way from 20,000 Hertz to | Audio: audio_logs/speech_2025-02-12_12-21-17-519.wav
+[2025-02-12_12-21-22-575] Confidence: 0.90 | Text: I believe 192,000 Hertz | Audio: audio_logs/speech_2025-02-12_12-21-22-575.wav
+[2025-02-12_12-21-27-631] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-21-27-631.wav
+[2025-02-12_12-21-32-687] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-21-32-687.wav
+[2025-02-12_12-21-37-743] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-21-37-743.wav
+[2025-02-12_12-21-42-799] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-21-42-799.wav
+[2025-02-12_12-21-47-855] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-21-47-855.wav
+[2025-02-12_12-21-52-912] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-21-52-912.wav
+[2025-02-12_12-21-57-967] Confidence: 0.90 | Text: I didn't | Audio: audio_logs/speech_2025-02-12_12-21-57-967.wav
+[2025-02-12_12-22-03-024] Confidence: 0.90 | Text: meow like a microphone like that | Audio: audio_logs/speech_2025-02-12_12-22-03-024.wav
+[2025-02-12_12-22-08-079] Confidence: 0.90 | Text: I feel like you'd have to be like really close to it | Audio: audio_logs/speech_2025-02-12_12-22-08-079.wav
+[2025-02-12_12-22-13-136] Confidence: 0.90 | Text: pick up anything and I'm looking for something that | Audio: audio_logs/speech_2025-02-12_12-22-13-136.wav
+[2025-02-12_12-22-18-192] Confidence: 0.90 | Text: no it's kind of a weird | Audio: audio_logs/speech_2025-02-12_12-22-18-192.wav
+[2025-02-12_12-22-23-248] Confidence: 0.90 | Text: so this this kind of sound | Audio: audio_logs/speech_2025-02-12_12-22-23-248.wav
+[2025-02-12_12-22-28-305] Confidence: 0.90 | Text: you're probably going to think this guy's crazy or something but | Audio: audio_logs/speech_2025-02-12_12-22-28-305.wav
+[2025-02-12_12-22-33-361] Confidence: 0.90 | Text: hacked into my electronics | Audio: audio_logs/speech_2025-02-12_12-22-33-361.wav
+[2025-02-12_12-22-38-417] Confidence: 0.90 | Text: shuffle my software engineer and I have these people do this | Audio: audio_logs/speech_2025-02-12_12-22-38-417.wav
+[2025-02-12_12-22-43-473] Confidence: 0.90 | Text: before I have a hack into my computer and you know sent me death row | Audio: audio_logs/speech_2025-02-12_12-22-43-473.wav
+[2025-02-12_12-22-48-529] Confidence: 0.90 | Text: things like that and I run my own software business and | Audio: audio_logs/speech_2025-02-12_12-22-48-529.wav
+[2025-02-12_12-22-53-585] Confidence: 0.90 | Text: I feel like it's you know people who don't want my business to succeed | Audio: audio_logs/speech_2025-02-12_12-22-53-585.wav
+[2025-02-12_12-22-58-641] Confidence: 0.90 | Text: but anyway they they recently been like har | Audio: audio_logs/speech_2025-02-12_12-22-58-641.wav
+[2025-02-12_12-23-03-697] Confidence: 0.90 | Text: using some sort of like directional speaker or something like | Audio: audio_logs/speech_2025-02-12_12-23-03-697.wav
+[2025-02-12_12-23-08-753] Confidence: 0.90 | Text: and I've been able to record them talking | Audio: audio_logs/speech_2025-02-12_12-23-08-753.wav
+[2025-02-12_12-23-13-809] Confidence: 0.90 | Text: using a standard microphone | Audio: audio_logs/speech_2025-02-12_12-23-13-809.wav
+[2025-02-12_12-23-18-865] Confidence: 0.90 | Text: Pride basically | Audio: audio_logs/speech_2025-02-12_12-23-18-865.wav
+[2025-02-12_12-23-23-922] Confidence: 0.90 | Text: find a standard microphone I had to get the audio recordings Prof | Audio: audio_logs/speech_2025-02-12_12-23-23-922.wav
+[2025-02-12_12-23-28-978] Confidence: 0.90 | Text: play enhanced to bring out the audio and they're in a like a frequency | Audio: audio_logs/speech_2025-02-12_12-23-28-978.wav
+[2025-02-12_12-23-34-034] Confidence: 0.90 | Text: change that's not not within normal | Audio: audio_logs/speech_2025-02-12_12-23-34-034.wav
+[2025-02-12_12-23-39-090] Confidence: 0.90 | Text: human hearing range you can hear it | Audio: audio_logs/speech_2025-02-12_12-23-39-090.wav
+[2025-02-12_12-23-44-146] Confidence: 0.90 | Text: but it's it's | Audio: audio_logs/speech_2025-02-12_12-23-44-146.wav
+[2025-02-12_12-23-49-202] Confidence: 0.90 | Text: like a standard microphone is not picking up everything that's being | Audio: audio_logs/speech_2025-02-12_12-23-49-202.wav
+[2025-02-12_12-23-54-258] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-23-54-258.wav
+[2025-02-12_12-23-59-314] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-23-59-314.wav
+[2025-02-12_12-24-04-370] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-04-370.wav
+[2025-02-12_12-24-09-427] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-09-427.wav
+[2025-02-12_12-24-14-483] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-14-483.wav
+[2025-02-12_12-24-19-539] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-19-539.wav
+[2025-02-12_12-24-24-594] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-24-594.wav
+[2025-02-12_12-24-29-651] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-29-651.wav
+[2025-02-12_12-24-34-707] Confidence: 0.90 | Text: what | Audio: audio_logs/speech_2025-02-12_12-24-34-707.wav
+[2025-02-12_12-24-39-763] Confidence: 0.90 | Text: ultrasound which would be below | Audio: audio_logs/speech_2025-02-12_12-24-39-763.wav
+[2025-02-12_12-24-44-819] Confidence: 0.90 | Text: between you know | Audio: audio_logs/speech_2025-02-12_12-24-44-819.wav
+[2025-02-12_12-24-49-875] Confidence: 0.90 | Text: zero | Audio: audio_logs/speech_2025-02-12_12-24-49-875.wav
+[2025-02-12_12-24-54-932] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-54-932.wav
+[2025-02-12_12-24-59-988] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-24-59-988.wav
+[2025-02-12_12-25-05-044] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-05-044.wav
+[2025-02-12_12-25-10-100] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-10-100.wav
+[2025-02-12_12-25-15-156] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-15-156.wav
+[2025-02-12_12-25-20-212] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-20-212.wav
+[2025-02-12_12-25-25-268] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-25-268.wav
+[2025-02-12_12-25-30-324] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-30-324.wav
+[2025-02-12_12-25-35-380] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-35-380.wav
+[2025-02-12_12-25-40-436] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-40-436.wav
+[2025-02-12_12-25-45-493] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-45-493.wav
+[2025-02-12_12-25-50-548] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-25-50-548.wav
+[2025-02-12_12-25-55-605] Confidence: 0.90 | Text: play | Audio: audio_logs/speech_2025-02-12_12-25-55-605.wav
+[2025-02-12_12-26-00-661] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-00-661.wav
+[2025-02-12_12-26-05-717] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-05-717.wav
+[2025-02-12_12-26-10-773] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-10-773.wav
+[2025-02-12_12-26-15-829] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-15-829.wav
+[2025-02-12_12-26-20-885] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-20-885.wav
+[2025-02-12_12-26-25-941] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-25-941.wav
+[2025-02-12_12-26-30-997] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-30-997.wav
+[2025-02-12_12-26-36-053] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-36-053.wav
+[2025-02-12_12-26-41-110] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-41-110.wav
+[2025-02-12_12-26-46-166] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-46-166.wav
+[2025-02-12_12-26-51-222] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-26-51-222.wav
+[2025-02-12_12-26-56-278] Confidence: 0.90 | Text: so | Audio: audio_logs/speech_2025-02-12_12-26-56-278.wav
+[2025-02-12_12-27-01-334] Confidence: 0.90 | Text: mainly like web application | Audio: audio_logs/speech_2025-02-12_12-27-01-334.wav
+[2025-02-12_12-27-06-390] Confidence: 0.90 | Text: so I'm like online banking things like that | Audio: audio_logs/speech_2025-02-12_12-27-06-390.wav
+[2025-02-12_12-27-11-446] Confidence: 0.90 | Text: and my software business is actually I don't know if | Audio: audio_logs/speech_2025-02-12_12-27-11-446.wav
+[2025-02-12_12-27-16-502] Confidence: 0.90 | Text: familiar with what parallel Computing is | Audio: audio_logs/speech_2025-02-12_12-27-16-502.wav
+[2025-02-12_12-27-21-558] Confidence: 0.90 | Text: parallel Computing is basically just need a modern computers have | Audio: audio_logs/speech_2025-02-12_12-27-21-558.wav
+[2025-02-12_12-27-26-614] Confidence: 0.90 | Text: multiple processors on them and the software I develop | Audio: audio_logs/speech_2025-02-12_12-27-26-614.wav
+[2025-02-12_12-27-31-670] Confidence: 0.90 | Text: allows you to take advantage of all those processors and get | Audio: audio_logs/speech_2025-02-12_12-27-31-670.wav
+[2025-02-12_12-27-36-727] Confidence: 0.90 | Text: get work done faster and | Audio: audio_logs/speech_2025-02-12_12-27-36-727.wav
+[2025-02-12_12-27-41-783] Confidence: 0.90 | Text: I'm expanding that into cloud computing too so | Audio: audio_logs/speech_2025-02-12_12-27-41-783.wav
+[2025-02-12_12-27-46-839] Confidence: 0.90 | Text: companies like Amazon and Microsoft | Audio: audio_logs/speech_2025-02-12_12-27-46-839.wav
+[2025-02-12_12-27-51-895] Confidence: 0.90 | Text: Google that have cloud computing | Audio: audio_logs/speech_2025-02-12_12-27-51-895.wav
+[2025-02-12_12-27-56-951] Confidence: 0.90 | Text: offerings are kind of who who I be competing with | Audio: audio_logs/speech_2025-02-12_12-27-56-951.wav
+[2025-02-12_12-28-02-007] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-28-02-007.wav
+[2025-02-12_12-28-07-063] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-28-07-063.wav
+[2025-02-12_12-28-12-119] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-28-12-119.wav
+[2025-02-12_12-28-17-175] Confidence: 0.90 | Text: right now I'm trying to | Audio: audio_logs/speech_2025-02-12_12-28-17-175.wav
+[2025-02-12_12-28-22-231] Confidence: 0.90 | Text: trying to have my Niche with that peril | Audio: audio_logs/speech_2025-02-12_12-28-22-231.wav
+[2025-02-12_12-28-27-287] Confidence: 0.90 | Text: that's one of the advantages of side from being | Audio: audio_logs/speech_2025-02-12_12-28-27-287.wav
+[2025-02-12_12-28-32-343] Confidence: 0.90 | Text: to take advantage of like all of the computers you know power | Audio: audio_logs/speech_2025-02-12_12-28-32-343.wav
+[2025-02-12_12-28-37-400] Confidence: 0.90 | Text: how is yellow a big advantage | Audio: audio_logs/speech_2025-02-12_12-28-37-400.wav
+[2025-02-12_12-28-42-456] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-28-42-456.wav
+[2025-02-12_12-28-47-512] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-28-47-512.wav
+[2025-02-12_12-28-52-568] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-28-52-568.wav
+[2025-02-12_12-28-57-624] Confidence: 0.90 | Text: all right bro | Audio: audio_logs/speech_2025-02-12_12-28-57-624.wav
+[2025-02-12_12-29-02-680] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-02-680.wav
+[2025-02-12_12-29-07-736] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-07-736.wav
+[2025-02-12_12-29-12-792] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-12-792.wav
+[2025-02-12_12-29-17-848] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-17-848.wav
+[2025-02-12_12-29-22-904] Confidence: 0.90 | Text: all right thank you | Audio: audio_logs/speech_2025-02-12_12-29-22-904.wav
+[2025-02-12_12-29-27-960] Confidence: 0.90 | Text: all right thank you | Audio: audio_logs/speech_2025-02-12_12-29-27-960.wav
+[2025-02-12_12-29-33-016] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-33-016.wav
+[2025-02-12_12-29-38-072] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-38-072.wav
+[2025-02-12_12-29-43-129] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-43-129.wav
+[2025-02-12_12-29-48-185] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-48-185.wav
+[2025-02-12_12-29-53-240] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-53-240.wav
+[2025-02-12_12-29-58-297] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-29-58-297.wav
+[2025-02-12_12-30-03-352] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-03-352.wav
+[2025-02-12_12-30-08-409] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-08-409.wav
+[2025-02-12_12-30-13-465] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-13-465.wav
+[2025-02-12_12-30-18-521] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-18-521.wav
+[2025-02-12_12-30-23-577] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-23-577.wav
+[2025-02-12_12-30-28-633] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-28-633.wav
+[2025-02-12_12-30-33-689] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-33-689.wav
+[2025-02-12_12-30-38-745] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-38-745.wav
+[2025-02-12_12-30-43-801] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-43-801.wav
+[2025-02-12_12-30-48-858] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-48-858.wav
+[2025-02-12_12-30-53-914] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-53-914.wav
+[2025-02-12_12-30-58-969] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-30-58-969.wav
+[2025-02-12_12-31-04-025] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-04-025.wav
+[2025-02-12_12-31-09-081] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-09-081.wav
+[2025-02-12_12-31-14-137] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-14-137.wav
+[2025-02-12_12-31-19-193] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-19-193.wav
+[2025-02-12_12-31-24-249] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-24-249.wav
+[2025-02-12_12-31-29-306] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-29-306.wav
+[2025-02-12_12-31-34-362] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-34-362.wav
+[2025-02-12_12-31-39-419] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-39-419.wav
+[2025-02-12_12-31-44-474] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-44-474.wav
+[2025-02-12_12-31-49-531] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-49-531.wav
+[2025-02-12_12-31-54-586] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-54-586.wav
+[2025-02-12_12-31-59-642] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-31-59-642.wav
+[2025-02-12_12-32-04-698] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-04-698.wav
+[2025-02-12_12-32-09-755] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-09-755.wav
+[2025-02-12_12-32-14-810] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-14-810.wav
+[2025-02-12_12-32-19-867] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-19-867.wav
+[2025-02-12_12-32-24-923] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-24-923.wav
+[2025-02-12_12-32-29-979] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-29-979.wav
+[2025-02-12_12-32-35-035] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-35-035.wav
+[2025-02-12_12-32-40-091] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-40-091.wav
+[2025-02-12_12-32-45-147] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-45-147.wav
+[2025-02-12_12-32-50-203] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-50-203.wav
+[2025-02-12_12-32-55-259] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-32-55-259.wav
+[2025-02-12_12-33-00-315] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-00-315.wav
+[2025-02-12_12-33-05-371] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-05-371.wav
+[2025-02-12_12-33-10-427] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-10-427.wav
+[2025-02-12_12-33-15-483] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-15-483.wav
+[2025-02-12_12-33-20-540] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-20-540.wav
+[2025-02-12_12-33-25-595] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-25-595.wav
+[2025-02-12_12-33-30-651] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-30-651.wav
+[2025-02-12_12-33-35-708] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-35-708.wav
+[2025-02-12_12-33-40-764] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-40-764.wav
+[2025-02-12_12-33-45-820] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-45-820.wav
+[2025-02-12_12-33-50-876] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-50-876.wav
+[2025-02-12_12-33-55-932] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-33-55-932.wav
+[2025-02-12_12-34-00-988] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-00-988.wav
+[2025-02-12_12-34-06-044] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-06-044.wav
+[2025-02-12_12-34-11-100] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-11-100.wav
+[2025-02-12_12-34-16-156] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-16-156.wav
+[2025-02-12_12-34-21-212] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-21-212.wav
+[2025-02-12_12-34-26-269] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-26-269.wav
+[2025-02-12_12-34-31-325] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-31-325.wav
+[2025-02-12_12-34-36-381] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-36-381.wav
+[2025-02-12_12-34-41-436] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-41-436.wav
+[2025-02-12_12-34-46-493] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-46-493.wav
+[2025-02-12_12-34-51-549] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-51-549.wav
+[2025-02-12_12-34-56-605] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-34-56-605.wav
+[2025-02-12_12-35-01-661] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-01-661.wav
+[2025-02-12_12-35-06-717] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-06-717.wav
+[2025-02-12_12-35-11-773] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-11-773.wav
+[2025-02-12_12-35-16-829] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-16-829.wav
+[2025-02-12_12-35-21-885] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-21-885.wav
+[2025-02-12_12-35-26-941] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-26-941.wav
+[2025-02-12_12-35-31-997] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-31-997.wav
+[2025-02-12_12-35-37-053] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-37-053.wav
+[2025-02-12_12-35-42-109] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-42-109.wav
+[2025-02-12_12-35-47-165] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-47-165.wav
+[2025-02-12_12-35-52-222] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-52-222.wav
+[2025-02-12_12-35-57-278] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-35-57-278.wav
+[2025-02-12_12-36-02-333] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-02-333.wav
+[2025-02-12_12-36-07-390] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-07-390.wav
+[2025-02-12_12-36-12-445] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-12-445.wav
+[2025-02-12_12-36-17-502] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-17-502.wav
+[2025-02-12_12-36-22-558] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-22-558.wav
+[2025-02-12_12-36-27-614] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-27-614.wav
+[2025-02-12_12-36-32-670] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-32-670.wav
+[2025-02-12_12-36-37-726] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-37-726.wav
+[2025-02-12_12-36-42-782] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-42-782.wav
+[2025-02-12_12-36-47-838] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-47-838.wav
+[2025-02-12_12-36-52-894] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-52-894.wav
+[2025-02-12_12-36-57-950] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-36-57-950.wav
+[2025-02-12_12-37-03-006] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-03-006.wav
+[2025-02-12_12-37-08-062] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-08-062.wav
+[2025-02-12_12-37-13-119] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-13-119.wav
+[2025-02-12_12-37-18-175] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-18-175.wav
+[2025-02-12_12-37-23-231] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-23-231.wav
+[2025-02-12_12-37-28-287] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-28-287.wav
+[2025-02-12_12-37-33-342] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-33-342.wav
+[2025-02-12_12-37-38-398] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-38-398.wav
+[2025-02-12_12-37-43-455] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-43-455.wav
+[2025-02-12_12-37-48-511] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-48-511.wav
+[2025-02-12_12-37-53-567] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-53-567.wav
+[2025-02-12_12-37-58-623] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-37-58-623.wav
+[2025-02-12_12-38-03-679] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-03-679.wav
+[2025-02-12_12-38-08-735] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-08-735.wav
+[2025-02-12_12-38-13-791] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-13-791.wav
+[2025-02-12_12-38-18-847] Confidence: 0.90 | Text: Jackie Chan | Audio: audio_logs/speech_2025-02-12_12-38-18-847.wav
+[2025-02-12_12-38-23-903] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-23-903.wav
+[2025-02-12_12-38-28-959] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-28-959.wav
+[2025-02-12_12-38-34-015] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-34-015.wav
+[2025-02-12_12-38-39-072] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-39-072.wav
+[2025-02-12_12-38-44-127] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-44-127.wav
+[2025-02-12_12-38-49-183] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-49-183.wav
+[2025-02-12_12-38-54-240] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-54-240.wav
+[2025-02-12_12-38-59-296] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-38-59-296.wav
+[2025-02-12_12-39-04-351] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-04-351.wav
+[2025-02-12_12-39-09-408] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-09-408.wav
+[2025-02-12_12-39-14-464] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-14-464.wav
+[2025-02-12_12-39-19-520] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-19-520.wav
+[2025-02-12_12-39-24-576] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-24-576.wav
+[2025-02-12_12-39-29-633] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-29-633.wav
+[2025-02-12_12-39-34-688] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-34-688.wav
+[2025-02-12_12-39-39-744] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-39-744.wav
+[2025-02-12_12-39-44-800] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-44-800.wav
+[2025-02-12_12-39-49-856] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-49-856.wav
+[2025-02-12_12-39-54-912] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-54-912.wav
+[2025-02-12_12-39-59-968] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-39-59-968.wav
+[2025-02-12_12-40-05-024] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-05-024.wav
+[2025-02-12_12-40-10-081] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-10-081.wav
+[2025-02-12_12-40-15-137] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-15-137.wav
+[2025-02-12_12-40-20-193] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-20-193.wav
+[2025-02-12_12-40-25-249] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-25-249.wav
+[2025-02-12_12-40-30-305] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-30-305.wav
+[2025-02-12_12-40-35-361] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-35-361.wav
+[2025-02-12_12-40-40-417] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-40-417.wav
+[2025-02-12_12-40-45-473] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-45-473.wav
+[2025-02-12_12-40-50-528] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-50-528.wav
+[2025-02-12_12-40-55-585] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-40-55-585.wav
+[2025-02-12_12-41-00-641] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-00-641.wav
+[2025-02-12_12-41-05-697] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-05-697.wav
+[2025-02-12_12-41-10-753] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-10-753.wav
+[2025-02-12_12-41-15-809] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-15-809.wav
+[2025-02-12_12-41-20-865] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-20-865.wav
+[2025-02-12_12-41-25-922] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-25-922.wav
+[2025-02-12_12-41-30-978] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-30-978.wav
+[2025-02-12_12-41-36-034] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-36-034.wav
+[2025-02-12_12-41-41-090] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-41-090.wav
+[2025-02-12_12-41-46-146] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-46-146.wav
+[2025-02-12_12-41-51-202] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-51-202.wav
+[2025-02-12_12-41-56-258] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-41-56-258.wav
+[2025-02-12_12-42-01-314] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-01-314.wav
+[2025-02-12_12-42-06-371] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-06-371.wav
+[2025-02-12_12-42-11-427] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-11-427.wav
+[2025-02-12_12-42-16-483] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-16-483.wav
+[2025-02-12_12-42-21-539] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-21-539.wav
+[2025-02-12_12-42-26-595] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-26-595.wav
+[2025-02-12_12-42-31-651] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-31-651.wav
+[2025-02-12_12-42-36-707] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-36-707.wav
+[2025-02-12_12-42-41-764] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-41-764.wav
+[2025-02-12_12-42-46-820] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-46-820.wav
+[2025-02-12_12-42-51-876] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-51-876.wav
+[2025-02-12_12-42-56-932] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-42-56-932.wav
+[2025-02-12_12-43-01-988] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-01-988.wav
+[2025-02-12_12-43-07-044] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-07-044.wav
+[2025-02-12_12-43-12-100] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-12-100.wav
+[2025-02-12_12-43-17-156] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-17-156.wav
+[2025-02-12_12-43-22-212] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-22-212.wav
+[2025-02-12_12-43-27-269] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-27-269.wav
+[2025-02-12_12-43-32-325] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-32-325.wav
+[2025-02-12_12-43-37-381] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-37-381.wav
+[2025-02-12_12-43-42-437] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-42-437.wav
+[2025-02-12_12-43-47-493] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-47-493.wav
+[2025-02-12_12-43-52-549] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-43-52-549.wav
+[2025-02-12_12-43-57-605] Confidence: 0.90 | Text: 25 minutes | Audio: audio_logs/speech_2025-02-12_12-43-57-605.wav
+[2025-02-12_12-44-02-662] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-02-662.wav
+[2025-02-12_12-44-07-718] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-07-718.wav
+[2025-02-12_12-44-12-773] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-12-773.wav
+[2025-02-12_12-44-17-830] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-17-830.wav
+[2025-02-12_12-44-22-886] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-22-886.wav
+[2025-02-12_12-44-27-942] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-27-942.wav
+[2025-02-12_12-44-32-998] Confidence: 0.90 | Text: suck yourself | Audio: audio_logs/speech_2025-02-12_12-44-32-998.wav
+[2025-02-12_12-44-38-054] Confidence: 0.90 | Text: twice in bikini | Audio: audio_logs/speech_2025-02-12_12-44-38-054.wav
+[2025-02-12_12-44-43-111] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-43-111.wav
+[2025-02-12_12-44-48-167] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-48-167.wav
+[2025-02-12_12-44-53-223] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-53-223.wav
+[2025-02-12_12-44-58-279] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-44-58-279.wav
+[2025-02-12_12-45-03-335] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-03-335.wav
+[2025-02-12_12-45-08-391] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-08-391.wav
+[2025-02-12_12-45-13-447] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-13-447.wav
+[2025-02-12_12-45-18-503] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-18-503.wav
+[2025-02-12_12-45-23-559] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-23-559.wav
+[2025-02-12_12-45-28-615] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-28-615.wav
+[2025-02-12_12-45-33-672] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-33-672.wav
+[2025-02-12_12-45-38-728] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-38-728.wav
+[2025-02-12_12-45-43-784] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-43-784.wav
+[2025-02-12_12-45-48-840] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-48-840.wav
+[2025-02-12_12-45-53-896] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-53-896.wav
+[2025-02-12_12-45-58-952] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-45-58-952.wav
+[2025-02-12_12-46-04-008] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-46-04-008.wav
+[2025-02-12_12-46-09-064] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-46-09-064.wav
+[2025-02-12_12-46-14-121] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-46-14-121.wav
+[2025-02-12_12-46-19-177] Confidence: 0.90 | Text: hey Alexa my name is Austin | Audio: audio_logs/speech_2025-02-12_12-46-19-177.wav
+[2025-02-12_12-46-24-233] Confidence: 0.90 | Text: call Kelly Clarkson wonder if you have an item in stock | Audio: audio_logs/speech_2025-02-12_12-46-24-233.wav
+[2025-02-12_12-46-29-289] Confidence: 0.90 | Text: I'm looking for the bell ringer | Audio: audio_logs/speech_2025-02-12_12-46-29-289.wav
+[2025-02-12_12-46-34-345] Confidence: 0.90 | Text: volume 8000 measurement condenser microphone | Audio: audio_logs/speech_2025-02-12_12-46-34-345.wav
+[2025-02-12_12-46-39-401] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-46-39-401.wav
+[2025-02-12_12-46-44-457] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-46-44-457.wav
+[2025-02-12_12-46-49-513] Confidence: 0.90 | Text: so I see on the website | Audio: audio_logs/speech_2025-02-12_12-46-49-513.wav
+[2025-02-12_12-46-54-569] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-46-54-569.wav
+[2025-02-12_12-46-59-625] Confidence: 0.90 | Text: the question is is there any way I can only add | Audio: audio_logs/speech_2025-02-12_12-46-59-625.wav
+[2025-02-12_12-47-04-682] Confidence: 0.90 | Text: anything that I could use to hold that microphone | Audio: audio_logs/speech_2025-02-12_12-47-04-682.wav
+[2025-02-12_12-47-09-737] Confidence: 0.90 | Text: Target USB port on a computer | Audio: audio_logs/speech_2025-02-12_12-47-09-737.wav
+[2025-02-12_12-47-14-793] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-47-14-793.wav
+[2025-02-12_12-47-19-850] Confidence: 0.90 | Text: yeah I've never I've never done any kind of sound engine | Audio: audio_logs/speech_2025-02-12_12-47-19-850.wav
+[2025-02-12_12-47-24-906] Confidence: 0.90 | Text: time before | Audio: audio_logs/speech_2025-02-12_12-47-24-906.wav
+[2025-02-12_12-47-29-962] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-47-29-962.wav
+[2025-02-12_12-47-35-019] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-47-35-019.wav
+[2025-02-12_12-47-40-074] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-47-40-074.wav
+[2025-02-12_12-47-45-130] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-47-45-130.wav
+[2025-02-12_12-47-50-186] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-47-50-186.wav
+[2025-02-12_12-47-55-242] Confidence: 0.90 | Text: nevermind I'm looking for information | Audio: audio_logs/speech_2025-02-12_12-47-55-242.wav
+[2025-02-12_12-48-00-299] Confidence: 0.90 | Text: the the BBH ringer e | Audio: audio_logs/speech_2025-02-12_12-48-00-299.wav
+[2025-02-12_12-48-05-355] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-48-05-355.wav
+[2025-02-12_12-48-10-411] Confidence: 0.90 | Text: I also do you guys have another location | Audio: audio_logs/speech_2025-02-12_12-48-10-411.wav
+[2025-02-12_12-48-15-467] Confidence: 0.90 | Text: close to Indianapolis or sport rain the closest location to | Audio: audio_logs/speech_2025-02-12_12-48-15-467.wav
+[2025-02-12_12-48-20-522] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-48-20-522.wav
+[2025-02-12_12-48-25-579] Confidence: 0.90 | Text: oh okay | Audio: audio_logs/speech_2025-02-12_12-48-25-579.wav
+[2025-02-12_12-48-30-635] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-48-30-635.wav
+[2025-02-12_12-48-35-691] Confidence: 0.90 | Text: the ECM the ECM 8000 measurement | Audio: audio_logs/speech_2025-02-12_12-48-35-691.wav
+[2025-02-12_12-48-40-747] Confidence: 0.90 | Text: play bless your microphone | Audio: audio_logs/speech_2025-02-12_12-48-40-747.wav
+[2025-02-12_12-48-45-804] Confidence: 0.90 | Text: so I see | Audio: audio_logs/speech_2025-02-12_12-48-45-804.wav
+[2025-02-12_12-48-50-859] Confidence: 0.90 | Text: 440 right | Audio: audio_logs/speech_2025-02-12_12-48-50-859.wav
+[2025-02-12_12-48-55-916] Confidence: 0.90 | Text: on the website that it it handles | Audio: audio_logs/speech_2025-02-12_12-48-55-916.wav
+[2025-02-12_12-49-00-972] Confidence: 0.90 | Text: previously response from 15 minutes to 20000 Hertz | Audio: audio_logs/speech_2025-02-12_12-49-00-972.wav
+[2025-02-12_12-49-06-028] Confidence: 0.90 | Text: is there any similar | Audio: audio_logs/speech_2025-02-12_12-49-06-028.wav
+[2025-02-12_12-49-11-084] Confidence: 0.90 | Text: microphone you have that would measure below | Audio: audio_logs/speech_2025-02-12_12-49-11-084.wav
+[2025-02-12_12-49-16-140] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-49-16-140.wav
+[2025-02-12_12-49-21-196] Confidence: 0.90 | Text: external | Audio: audio_logs/speech_2025-02-12_12-49-21-196.wav
+[2025-02-12_12-49-26-252] Confidence: 0.90 | Text: but basically I'm | Audio: audio_logs/speech_2025-02-12_12-49-26-252.wav
+[2025-02-12_12-49-31-308] Confidence: 0.90 | Text: and ever since I started a business a couple of years ago | Audio: audio_logs/speech_2025-02-12_12-49-31-308.wav
+[2025-02-12_12-49-36-365] Confidence: 0.90 | Text: I've been dealing with some bad people on Facebook | Audio: audio_logs/speech_2025-02-12_12-49-36-365.wav
+[2025-02-12_12-49-41-421] Confidence: 0.90 | Text: what's the weather in my computer and harassing me some of your | Audio: audio_logs/speech_2025-02-12_12-49-41-421.wav
+[2025-02-12_12-49-46-476] Confidence: 0.90 | Text: things like that and anyway I have a fireplace report because of it | Audio: audio_logs/speech_2025-02-12_12-49-46-476.wav
+[2025-02-12_12-49-51-533] Confidence: 0.90 | Text: recently they've been using | Audio: audio_logs/speech_2025-02-12_12-49-51-533.wav
+[2025-02-12_12-49-56-589] Confidence: 0.90 | Text: Child Services they've been using some sort of like | Audio: audio_logs/speech_2025-02-12_12-49-56-589.wav
+[2025-02-12_12-50-01-645] Confidence: 0.90 | Text: speaker or something like that and appointment at towards my | Audio: audio_logs/speech_2025-02-12_12-50-01-645.wav
+[2025-02-12_12-50-06-700] Confidence: 0.90 | Text: Pandora and I'm trying to get some sleep and | Audio: audio_logs/speech_2025-02-12_12-50-06-700.wav
+[2025-02-12_12-50-11-757] Confidence: 0.90 | Text: 75800 voice activated | Audio: audio_logs/speech_2025-02-12_12-50-11-757.wav
+[2025-02-12_12-50-16-813] Confidence: 0.90 | Text: and it actually picked up one of these people | Audio: audio_logs/speech_2025-02-12_12-50-16-813.wav
+[2025-02-12_12-50-21-869] Confidence: 0.90 | Text: Federation of low frequency range and it's | Audio: audio_logs/speech_2025-02-12_12-50-21-869.wav
+[2025-02-12_12-50-26-925] Confidence: 0.90 | Text: play an audio engineering to enhance the audio just to make sure I | Audio: audio_logs/speech_2025-02-12_12-50-26-925.wav
+[2025-02-12_12-50-31-981] Confidence: 0.90 | Text: I didn't hear what they were saying on there and | Audio: audio_logs/speech_2025-02-12_12-50-31-981.wav
+[2025-02-12_12-50-37-038] Confidence: 0.90 | Text: stop playing in the it's a mix of | Audio: audio_logs/speech_2025-02-12_12-50-37-038.wav
+[2025-02-12_12-50-42-094] Confidence: 0.90 | Text: Savannah 1000 hurts but then some of what they're saying | Audio: audio_logs/speech_2025-02-12_12-50-42-094.wav
+[2025-02-12_12-50-47-150] Confidence: 0.90 | Text: is MD 0 1 2 | Audio: audio_logs/speech_2025-02-12_12-50-47-150.wav
+[2025-02-12_12-50-52-206] Confidence: 0.90 | Text: going to cover video | Audio: audio_logs/speech_2025-02-12_12-50-52-206.wav
+[2025-02-12_12-50-57-263] Confidence: 0.90 | Text: profound measurement of the | Audio: audio_logs/speech_2025-02-12_12-50-57-263.wav
+[2025-02-12_12-51-02-317] Confidence: 0.90 | Text: play some 0.5 Hertz to 20 HZ | Audio: audio_logs/speech_2025-02-12_12-51-02-317.wav
+[2025-02-12_12-51-07-374] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-51-07-374.wav
+[2025-02-12_12-51-12-430] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-51-12-430.wav
+[2025-02-12_12-51-17-486] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-51-17-486.wav
+[2025-02-12_12-51-22-543] Confidence: 0.90 | Text: call | Audio: audio_logs/speech_2025-02-12_12-51-22-543.wav
+[2025-02-12_12-51-27-598] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-51-27-598.wav
+[2025-02-12_12-51-32-654] Confidence: 0.90 | Text: will this condenser microphone | Audio: audio_logs/speech_2025-02-12_12-51-32-654.wav
+[2025-02-12_12-51-37-710] Confidence: 0.90 | Text: Mike what is pick up someone talking now like if I | Audio: audio_logs/speech_2025-02-12_12-51-37-710.wav
+[2025-02-12_12-51-42-767] Confidence: 0.90 | Text: if I had music playing when it when it came out like what | Audio: audio_logs/speech_2025-02-12_12-51-42-767.wav
+[2025-02-12_12-51-47-822] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-51-47-822.wav
+[2025-02-12_12-51-52-879] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-51-52-879.wav
+[2025-02-12_12-51-57-935] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-51-57-935.wav
+[2025-02-12_12-52-02-991] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-02-991.wav
+[2025-02-12_12-52-08-047] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-08-047.wav
+[2025-02-12_12-52-13-103] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-13-103.wav
+[2025-02-12_12-52-18-159] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-18-159.wav
+[2025-02-12_12-52-23-215] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-23-215.wav
+[2025-02-12_12-52-28-271] Confidence: 0.90 | Text: 41 minutes from now | Audio: audio_logs/speech_2025-02-12_12-52-28-271.wav
+[2025-02-12_12-52-33-327] Confidence: 0.90 | Text: so it doesn't record any audio at all | Audio: audio_logs/speech_2025-02-12_12-52-33-327.wav
+[2025-02-12_12-52-38-384] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-38-384.wav
+[2025-02-12_12-52-43-440] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-43-440.wav
+[2025-02-12_12-52-48-496] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-48-496.wav
+[2025-02-12_12-52-53-552] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-53-552.wav
+[2025-02-12_12-52-58-608] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-52-58-608.wav
+[2025-02-12_12-53-03-663] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-53-03-663.wav
+[2025-02-12_12-53-08-720] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-53-08-720.wav
+[2025-02-12_12-53-13-776] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-53-13-776.wav
+[2025-02-12_12-53-18-832] Confidence: 0.90 | Text: where is | Audio: audio_logs/speech_2025-02-12_12-53-18-832.wav
+[2025-02-12_12-53-23-888] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-53-23-888.wav
+[2025-02-12_12-53-28-944] Confidence: 0.90 | Text: what | Audio: audio_logs/speech_2025-02-12_12-53-28-944.wav
+[2025-02-12_12-53-34-000] Confidence: 0.90 | Text: I mean you said it it just | Audio: audio_logs/speech_2025-02-12_12-53-34-000.wav
+[2025-02-12_12-53-39-056] Confidence: 0.90 | Text: very good quality microphone for white singing or | Audio: audio_logs/speech_2025-02-12_12-53-39-056.wav
+[2025-02-12_12-53-44-112] Confidence: 0.90 | Text: but it would still | Audio: audio_logs/speech_2025-02-12_12-53-44-112.wav
+[2025-02-12_12-53-49-169] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-53-49-169.wav
+[2025-02-12_12-53-54-225] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-53-54-225.wav
+[2025-02-12_12-53-59-281] Confidence: 0.90 | Text: Lowe's little measure any | Audio: audio_logs/speech_2025-02-12_12-53-59-281.wav
+[2025-02-12_12-54-04-337] Confidence: 0.90 | Text: between 15 Hertz to 20000 herbs | Audio: audio_logs/speech_2025-02-12_12-54-04-337.wav
+[2025-02-12_12-54-09-393] Confidence: 0.90 | Text: you know | Audio: audio_logs/speech_2025-02-12_12-54-09-393.wav
+[2025-02-12_12-54-14-449] Confidence: 0.90 | Text: turn into the microphone or anything like that | Audio: audio_logs/speech_2025-02-12_12-54-14-449.wav
+[2025-02-12_12-54-19-505] Confidence: 0.90 | Text: okay and do you sell any | Audio: audio_logs/speech_2025-02-12_12-54-19-505.wav
+[2025-02-12_12-54-24-561] Confidence: 0.90 | Text: microphones that are like measurements | Audio: audio_logs/speech_2025-02-12_12-54-24-561.wav
+[2025-02-12_12-54-29-617] Confidence: 0.90 | Text: 520,000 minutes | Audio: audio_logs/speech_2025-02-12_12-54-29-617.wav
+[2025-02-12_12-54-34-673] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-54-34-673.wav
+[2025-02-12_12-54-39-729] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-54-39-729.wav
+[2025-02-12_12-54-44-786] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-54-44-786.wav
+[2025-02-12_12-54-49-842] Confidence: 0.90 | Text: okay | Audio: audio_logs/speech_2025-02-12_12-54-49-842.wav
+[2025-02-12_12-54-54-897] Confidence: 0.90 | Text: what time will you also sell a any kind of ADD | Audio: audio_logs/speech_2025-02-12_12-54-54-897.wav
+[2025-02-12_12-54-59-954] Confidence: 0.90 | Text: where I can find this measurement microphone into a | Audio: audio_logs/speech_2025-02-12_12-54-59-954.wav
+[2025-02-12_12-55-05-010] Confidence: 0.90 | Text: play theme park | Audio: audio_logs/speech_2025-02-12_12-55-05-010.wav
+[2025-02-12_12-55-10-066] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-55-10-066.wav
+[2025-02-12_12-55-15-122] Confidence: 0.90 | Text: Southcenter Mall | Audio: audio_logs/speech_2025-02-12_12-55-15-122.wav
+[2025-02-12_12-55-20-178] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-55-20-178.wav
+[2025-02-12_12-55-25-234] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-55-25-234.wav
+[2025-02-12_12-55-30-290] Confidence: 0.90 | Text: University of Arizona I still have | Audio: audio_logs/speech_2025-02-12_12-55-30-290.wav
+[2025-02-12_12-55-35-346] Confidence: 0.90 | Text: seeing if I can I | Audio: audio_logs/speech_2025-02-12_12-55-35-346.wav
+[2025-02-12_12-55-40-402] Confidence: 0.90 | Text: I have a | Audio: audio_logs/speech_2025-02-12_12-55-40-402.wav
+[2025-02-12_12-55-45-458] Confidence: 0.90 | Text: a program that I put together | Audio: audio_logs/speech_2025-02-12_12-55-45-458.wav
+[2025-02-12_12-55-50-514] Confidence: 0.90 | Text: transcribes that | Audio: audio_logs/speech_2025-02-12_12-55-50-514.wav
+[2025-02-12_12-55-55-571] Confidence: 0.90 | Text: and it picks up | Audio: audio_logs/speech_2025-02-12_12-55-55-571.wav
+[2025-02-12_12-56-00-626] Confidence: 0.90 | Text: what is 24/7 but it seems to be below | Audio: audio_logs/speech_2025-02-12_12-56-00-626.wav
+[2025-02-12_12-56-05-683] Confidence: 0.90 | Text: hello 20 or | Audio: audio_logs/speech_2025-02-12_12-56-05-683.wav
+[2025-02-12_12-56-10-739] Confidence: 0.90 | Text: call at 4:30 hurts I think | Audio: audio_logs/speech_2025-02-12_12-56-10-739.wav
+[2025-02-12_12-56-15-794] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-56-15-794.wav
+[2025-02-12_12-56-20-851] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-56-20-851.wav
+[2025-02-12_12-56-25-907] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-56-25-907.wav
+[2025-02-12_12-56-30-963] Confidence: 0.90 | Text: low volume | Audio: audio_logs/speech_2025-02-12_12-56-30-963.wav
+[2025-02-12_12-56-36-019] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-56-36-019.wav
+[2025-02-12_12-56-41-075] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-56-41-075.wav
+[2025-02-12_12-56-46-131] Confidence: 0.90 | Text: okay | Audio: audio_logs/speech_2025-02-12_12-56-46-131.wav
+[2025-02-12_12-56-51-187] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-56-51-187.wav
+[2025-02-12_12-56-56-243] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-56-56-243.wav
+[2025-02-12_12-57-01-300] Confidence: 0.90 | Text: hello how much | Audio: audio_logs/speech_2025-02-12_12-57-01-300.wav
+[2025-02-12_12-57-06-355] Confidence: 0.90 | Text: cost for House of Cards for models adapters | Audio: audio_logs/speech_2025-02-12_12-57-06-355.wav
+[2025-02-12_12-57-11-412] Confidence: 0.90 | Text: to get this to work with a USB cord | Audio: audio_logs/speech_2025-02-12_12-57-11-412.wav
+[2025-02-12_12-57-16-468] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-57-16-468.wav
+[2025-02-12_12-57-21-524] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-57-21-524.wav
+[2025-02-12_12-57-26-580] Confidence: 0.90 | Text: can you have that in stock | Audio: audio_logs/speech_2025-02-12_12-57-26-580.wav
+[2025-02-12_12-57-31-636] Confidence: 0.90 | Text: okay okay well | Audio: audio_logs/speech_2025-02-12_12-57-31-636.wav
+[2025-02-12_12-57-36-692] Confidence: 0.90 | Text: I live in Indianapolis it's going to take me a couple | Audio: audio_logs/speech_2025-02-12_12-57-36-692.wav
+[2025-02-12_12-57-41-748] Confidence: 0.90 | Text: together | Audio: audio_logs/speech_2025-02-12_12-57-41-748.wav
+[2025-02-12_12-57-46-804] Confidence: 0.90 | Text: when I if I order online to that shit from the | Audio: audio_logs/speech_2025-02-12_12-57-46-804.wav
+[2025-02-12_12-57-51-860] Confidence: 0.90 | Text: Warehouse | Audio: audio_logs/speech_2025-02-12_12-57-51-860.wav
+[2025-02-12_12-57-56-916] Confidence: 0.90 | Text: oh okay | Audio: audio_logs/speech_2025-02-12_12-57-56-916.wav
+[2025-02-12_12-58-01-972] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-58-01-972.wav
+[2025-02-12_12-58-07-028] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-58-07-028.wav
+[2025-02-12_12-58-12-084] Confidence: 0.90 | Text: okay what is the name | Audio: audio_logs/speech_2025-02-12_12-58-12-084.wav
+[2025-02-12_12-58-17-141] Confidence: 0.90 | Text: how far have the | Audio: audio_logs/speech_2025-02-12_12-58-17-141.wav
+[2025-02-12_12-58-22-197] Confidence: 0.90 | Text: set alarm 35 dollar adapter he said | Audio: audio_logs/speech_2025-02-12_12-58-22-197.wav
+[2025-02-12_12-58-27-253] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-58-27-253.wav
+[2025-02-12_12-58-32-309] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-58-32-309.wav
+[2025-02-12_12-58-37-365] Confidence: 0.90 | Text: yeah I'm not sure if it would be safe to drive that far with them but the weather | Audio: audio_logs/speech_2025-02-12_12-58-37-365.wav
+[2025-02-12_12-58-42-421] Confidence: 0.90 | Text: and what it is I mean if it's coming from Fort Wayne | Audio: audio_logs/speech_2025-02-12_12-58-42-421.wav
+[2025-02-12_12-58-47-477] Confidence: 0.90 | Text: Indianapolis it won't take too long to to get shipped to you anyway | Audio: audio_logs/speech_2025-02-12_12-58-47-477.wav
+[2025-02-12_12-58-52-533] Confidence: 0.90 | Text: OK Google do you want my email address | Audio: audio_logs/speech_2025-02-12_12-58-52-533.wav
+[2025-02-12_12-58-57-589] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-58-57-589.wav
+[2025-02-12_12-59-02-645] Confidence: 0.90 | Text: Smith Smith | Audio: audio_logs/speech_2025-02-12_12-59-02-645.wav
+[2025-02-12_12-59-07-701] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-59-07-701.wav
+[2025-02-12_12-59-12-757] Confidence: 0.90 | Text: actually I called | Audio: audio_logs/speech_2025-02-12_12-59-12-757.wav
+[2025-02-12_12-59-17-813] Confidence: 0.90 | Text: Ovation sounds | Audio: audio_logs/speech_2025-02-12_12-59-17-813.wav
+[2025-02-12_12-59-22-870] Confidence: 0.90 | Text: call they did not have anything | Audio: audio_logs/speech_2025-02-12_12-59-22-870.wav
+[2025-02-12_12-59-27-925] Confidence: 0.90 | Text: what's that one measure anything in this | Audio: audio_logs/speech_2025-02-12_12-59-27-925.wav
+[2025-02-12_12-59-32-981] Confidence: 0.90 | Text: measurement microphone and they | Audio: audio_logs/speech_2025-02-12_12-59-32-981.wav
+[2025-02-12_12-59-38-038] Confidence: 0.90 | Text: and I used to work on Fort | Audio: audio_logs/speech_2025-02-12_12-59-38-038.wav
+[2025-02-12_12-59-43-094] Confidence: 0.90 | Text: a few times | Audio: audio_logs/speech_2025-02-12_12-59-43-094.wav
+[2025-02-12_12-59-48-150] Confidence: 0.90 | Text: I just you know I've never been a musician or anything | Audio: audio_logs/speech_2025-02-12_12-59-48-150.wav
+[2025-02-12_12-59-53-206] Confidence: 0.90 | Text: what's my first time I have to do any kind of sound in general | Audio: audio_logs/speech_2025-02-12_12-59-53-206.wav
+[2025-02-12_12-59-58-262] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_12-59-58-262.wav
+[2025-02-12_13-00-03-318] Confidence: 0.90 | Text: Aslan | Audio: audio_logs/speech_2025-02-12_13-00-03-318.wav
+[2025-02-12_13-00-08-374] Confidence: 0.90 | Text: famous people yeah that's true | Audio: audio_logs/speech_2025-02-12_13-00-08-374.wav
+[2025-02-12_13-00-13-430] Confidence: 0.90 | Text: evidences of is rewarding and its own | Audio: audio_logs/speech_2025-02-12_13-00-13-430.wav
+[2025-02-12_13-00-18-486] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-00-18-486.wav
+[2025-02-12_13-00-23-542] Confidence: 0.90 | Text: I want a dup | Audio: audio_logs/speech_2025-02-12_13-00-23-542.wav
+[2025-02-12_13-00-28-598] Confidence: 0.90 | Text: but it's right next to an apartment building | Audio: audio_logs/speech_2025-02-12_13-00-28-598.wav
+[2025-02-12_13-00-33-654] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-00-33-654.wav
+[2025-02-12_13-00-38-711] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-00-38-711.wav
+[2025-02-12_13-00-43-767] Confidence: 0.90 | Text: I'm not | Audio: audio_logs/speech_2025-02-12_13-00-43-767.wav
+[2025-02-12_13-00-48-823] Confidence: 0.90 | Text: sure which Apartments coming from | Audio: audio_logs/speech_2025-02-12_13-00-48-823.wav
+[2025-02-12_13-00-53-879] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-00-53-879.wav
+[2025-02-12_13-00-58-935] Confidence: 0.90 | Text: what | Audio: audio_logs/speech_2025-02-12_13-00-58-935.wav
+[2025-02-12_13-01-03-990] Confidence: 0.90 | Text: standing outside | Audio: audio_logs/speech_2025-02-12_13-01-03-990.wav
+[2025-02-12_13-01-09-047] Confidence: 0.90 | Text: Terry to using some sort of | Audio: audio_logs/speech_2025-02-12_13-01-09-047.wav
+[2025-02-12_13-01-14-103] Confidence: 0.90 | Text: interactional sound and my computer | Audio: audio_logs/speech_2025-02-12_13-01-14-103.wav
+[2025-02-12_13-01-19-159] Confidence: 0.90 | Text: bedtime so does | Audio: audio_logs/speech_2025-02-12_13-01-19-159.wav
+[2025-02-12_13-01-24-215] Confidence: 0.90 | Text: so does that that voice activated recorder | Audio: audio_logs/speech_2025-02-12_13-01-24-215.wav
+[2025-02-12_13-01-29-271] Confidence: 0.90 | Text: Butler somebody on the other one doesn't | Audio: audio_logs/speech_2025-02-12_13-01-29-271.wav
+[2025-02-12_13-01-34-327] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-01-34-327.wav
+[2025-02-12_13-01-39-383] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-01-39-383.wav
+[2025-02-12_13-01-44-439] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-01-44-439.wav
+[2025-02-12_13-01-49-495] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-01-49-495.wav
+[2025-02-12_13-01-54-551] Confidence: 0.90 | Text: play iHeartRadio | Audio: audio_logs/speech_2025-02-12_13-01-54-551.wav
+[2025-02-12_13-01-59-608] Confidence: 0.90 | Text: there's that sound too like it sounds like | Audio: audio_logs/speech_2025-02-12_13-01-59-608.wav
+[2025-02-12_13-02-04-664] Confidence: 0.90 | Text: sometimes it sounds like | Audio: audio_logs/speech_2025-02-12_13-02-04-664.wav
+[2025-02-12_13-02-09-720] Confidence: 0.90 | Text: play the sound like an engine idle | Audio: audio_logs/speech_2025-02-12_13-02-09-720.wav
+[2025-02-12_13-02-14-776] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-02-14-776.wav
+[2025-02-12_13-02-19-832] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-02-19-832.wav
+[2025-02-12_13-02-24-888] Confidence: 0.90 | Text: High Top Farm on the phone | Audio: audio_logs/speech_2025-02-12_13-02-24-888.wav
+[2025-02-12_13-02-29-944] Confidence: 0.90 | Text: where am I I'm working at 5:30 | Audio: audio_logs/speech_2025-02-12_13-02-29-944.wav
+[2025-02-12_13-02-35-000] Confidence: 0.90 | Text: mine my software that's picking up | Audio: audio_logs/speech_2025-02-12_13-02-35-000.wav
+[2025-02-12_13-02-40-056] Confidence: 0.90 | Text: time when I'm talking while I'm talking to you and | Audio: audio_logs/speech_2025-02-12_13-02-40-056.wav
+[2025-02-12_13-02-45-112] Confidence: 0.90 | Text: all the things that just picked up with someone said play iHeartRadio | Audio: audio_logs/speech_2025-02-12_13-02-45-112.wav
+[2025-02-12_13-02-50-168] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-02-50-168.wav
+[2025-02-12_13-02-55-224] Confidence: 0.90 | Text: picking up random phrases in their summer | Audio: audio_logs/speech_2025-02-12_13-02-55-224.wav
+[2025-02-12_13-03-00-280] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-03-00-280.wav
+[2025-02-12_13-03-05-336] Confidence: 0.90 | Text: 6121 | Audio: audio_logs/speech_2025-02-12_13-03-05-336.wav
+[2025-02-12_13-03-10-392] Confidence: 0.90 | Text: Winthrop Avenue Pasco | Audio: audio_logs/speech_2025-02-12_13-03-10-392.wav
+[2025-02-12_13-03-15-449] Confidence: 0.90 | Text: t h r o p | Audio: audio_logs/speech_2025-02-12_13-03-15-449.wav
+[2025-02-12_13-03-20-505] Confidence: 0.90 | Text: Avenue Indianapolis 462 | Audio: audio_logs/speech_2025-02-12_13-03-20-505.wav
+[2025-02-12_13-03-25-561] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-03-25-561.wav
+[2025-02-12_13-03-30-617] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-03-30-617.wav
+[2025-02-12_13-03-35-672] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-03-35-672.wav
+[2025-02-12_13-03-40-728] Confidence: 0.90 | Text: awesome apps | Audio: audio_logs/speech_2025-02-12_13-03-40-728.wav
+[2025-02-12_13-03-45-785] Confidence: 0.90 | Text: Smith Smith d as in delta e as an | Audio: audio_logs/speech_2025-02-12_13-03-45-785.wav
+[2025-02-12_13-03-50-841] Confidence: 0.90 | Text: b as in victor.com | Audio: audio_logs/speech_2025-02-12_13-03-50-841.wav
+[2025-02-12_13-03-55-897] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-03-55-897.wav
+[2025-02-12_13-04-00-953] Confidence: 0.90 | Text: I'm usually just a web developer so | Audio: audio_logs/speech_2025-02-12_13-04-00-953.wav
+[2025-02-12_13-04-06-009] Confidence: 0.90 | Text: I build my applic | Audio: audio_logs/speech_2025-02-12_13-04-06-009.wav
+[2025-02-12_13-04-11-065] Confidence: 0.90 | Text: are you are you a soccer player | Audio: audio_logs/speech_2025-02-12_13-04-11-065.wav
+[2025-02-12_13-04-16-121] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-04-16-121.wav
+[2025-02-12_13-04-21-177] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-04-21-177.wav
+[2025-02-12_13-04-26-233] Confidence: 0.90 | Text: the | Audio: audio_logs/speech_2025-02-12_13-04-26-233.wav
+[2025-02-12_13-04-31-290] Confidence: 0.90 | Text: play software products that have I started my business for | Audio: audio_logs/speech_2025-02-12_13-04-31-290.wav
+[2025-02-12_13-04-36-346] Confidence: 0.90 | Text: bears do you know what parallel programming is | Audio: audio_logs/speech_2025-02-12_13-04-36-346.wav
+[2025-02-12_13-04-41-402] Confidence: 0.90 | Text: call computer | Audio: audio_logs/speech_2025-02-12_13-04-41-402.wav
+[2025-02-12_13-04-46-457] Confidence: 0.90 | Text: reading is basically the idea of let's say you have a program | Audio: audio_logs/speech_2025-02-12_13-04-46-457.wav
+[2025-02-12_13-04-51-514] Confidence: 0.90 | Text: Annette program is made up of what | Audio: audio_logs/speech_2025-02-12_13-04-51-514.wav
+[2025-02-12_13-04-56-569] Confidence: 0.90 | Text: Play the song shots and those functions just taken input | Audio: audio_logs/speech_2025-02-12_13-04-56-569.wav
+[2025-02-12_13-05-01-626] Confidence: 0.90 | Text: a process that input can I give you an output and | Audio: audio_logs/speech_2025-02-12_13-05-01-626.wav
+[2025-02-12_13-05-06-682] Confidence: 0.90 | Text: which part of that out but he's got a question you have has | Audio: audio_logs/speech_2025-02-12_13-05-06-682.wav
+[2025-02-12_13-05-11-738] Confidence: 0.90 | Text: functions and traditionally | Audio: audio_logs/speech_2025-02-12_13-05-11-738.wav
+[2025-02-12_13-05-16-794] Confidence: 0.90 | Text: in the software world ever since the | Audio: audio_logs/speech_2025-02-12_13-05-16-794.wav
+[2025-02-12_13-05-21-850] Confidence: 0.90 | Text: computers by 99 | Audio: audio_logs/speech_2025-02-12_13-05-21-850.wav
+[2025-02-12_13-05-26-906] Confidence: 0.90 | Text: 99.9% of programs are | Audio: audio_logs/speech_2025-02-12_13-05-26-906.wav
+[2025-02-12_13-05-31-962] Confidence: 0.90 | Text: taking advantage of One processor at a time | Audio: audio_logs/speech_2025-02-12_13-05-31-962.wav
+[2025-02-12_13-05-37-018] Confidence: 0.90 | Text: I'm back in modern computers and | Audio: audio_logs/speech_2025-02-12_13-05-37-018.wav
+[2025-02-12_13-05-42-074] Confidence: 0.90 | Text: they don't feel | Audio: audio_logs/speech_2025-02-12_13-05-42-074.wav
+[2025-02-12_13-05-47-131] Confidence: 0.90 | Text: seahorse multi-core processor so they have technically | Audio: audio_logs/speech_2025-02-12_13-05-47-131.wav
+[2025-02-12_13-05-52-187] Confidence: 0.90 | Text: born in One processor and my phone | Audio: audio_logs/speech_2025-02-12_13-05-52-187.wav
+[2025-02-12_13-05-57-243] Confidence: 0.90 | Text: State processors and I wrote some | Audio: audio_logs/speech_2025-02-12_13-05-57-243.wav
+[2025-02-12_13-06-02-299] Confidence: 0.90 | Text: the better part of a decade to get | Audio: audio_logs/speech_2025-02-12_13-06-02-299.wav
+[2025-02-12_13-06-07-355] Confidence: 0.90 | Text: to the point where it is now but I have some software that | Audio: audio_logs/speech_2025-02-12_13-06-07-355.wav
+[2025-02-12_13-06-12-411] Confidence: 0.90 | Text: makes it super easy to write | Audio: audio_logs/speech_2025-02-12_13-06-12-411.wav
+[2025-02-12_13-06-17-467] Confidence: 0.90 | Text: guns that use all of your processing power | Audio: audio_logs/speech_2025-02-12_13-06-17-467.wav
+[2025-02-12_13-06-22-523] Confidence: 0.90 | Text: play you can take you can take a program | Audio: audio_logs/speech_2025-02-12_13-06-22-523.wav
+[2025-02-12_13-06-27-579] Confidence: 0.90 | Text: your calculates you know the square root or | Audio: audio_logs/speech_2025-02-12_13-06-27-579.wav
+[2025-02-12_13-06-32-635] Confidence: 0.90 | Text: signal processor or some algorithm like that and then | Audio: audio_logs/speech_2025-02-12_13-06-32-635.wav
+[2025-02-12_13-06-37-691] Confidence: 0.90 | Text: basically just modify that that | Audio: audio_logs/speech_2025-02-12_13-06-37-691.wav
+[2025-02-12_13-06-42-747] Confidence: 0.90 | Text: to use my library | Audio: audio_logs/speech_2025-02-12_13-06-42-747.wav
+[2025-02-12_13-06-47-803] Confidence: 0.90 | Text: and then my library will automatically take the in | Audio: audio_logs/speech_2025-02-12_13-06-47-803.wav
+[2025-02-12_13-06-52-859] Confidence: 0.90 | Text: Panera Bread hours | Audio: audio_logs/speech_2025-02-12_13-06-52-859.wav
+[2025-02-12_13-06-57-915] Confidence: 0.90 | Text: spell the word across all your processors | Audio: audio_logs/speech_2025-02-12_13-06-57-915.wav
+[2025-02-12_13-07-02-971] Confidence: 0.90 | Text: you know any number of processors that | Audio: audio_logs/speech_2025-02-12_13-07-02-971.wav
+[2025-02-12_13-07-08-028] Confidence: 0.90 | Text: did you get to and then | Audio: audio_logs/speech_2025-02-12_13-07-08-028.wav
+[2025-02-12_13-07-13-083] Confidence: 0.90 | Text: Arrowhead complex yeah | Audio: audio_logs/speech_2025-02-12_13-07-13-083.wav
+[2025-02-12_13-07-18-140] Confidence: 0.90 | Text: are secrets seeds of | Audio: audio_logs/speech_2025-02-12_13-07-18-140.wav
+[2025-02-12_13-07-23-196] Confidence: 0.90 | Text: play around between the processors and give you an out | Audio: audio_logs/speech_2025-02-12_13-07-23-196.wav
+[2025-02-12_13-07-28-252] Confidence: 0.90 | Text: just the same as if it ran on One processor | Audio: audio_logs/speech_2025-02-12_13-07-28-252.wav
+[2025-02-12_13-07-33-308] Confidence: 0.90 | Text: I walk faster cuz I use the power of all the processors | Audio: audio_logs/speech_2025-02-12_13-07-33-308.wav
+[2025-02-12_13-07-38-364] Confidence: 0.90 | Text: and | Audio: audio_logs/speech_2025-02-12_13-07-38-364.wav
+[2025-02-12_13-07-43-420] Confidence: 0.90 | Text: how to get it to the point where it is now | Audio: audio_logs/speech_2025-02-12_13-07-43-420.wav
+[2025-02-12_13-07-48-476] Confidence: 0.90 | Text: 9 years | Audio: audio_logs/speech_2025-02-12_13-07-48-476.wav
+[2025-02-12_13-07-53-532] Confidence: 0.90 | Text: it's been gradual refinement | Audio: audio_logs/speech_2025-02-12_13-07-53-532.wav
+[2025-02-12_13-07-58-588] Confidence: 0.90 | Text: Men's Wearhouse the Alvarado over time | Audio: audio_logs/speech_2025-02-12_13-07-58-588.wav
+[2025-02-12_13-08-03-644] Confidence: 0.90 | Text: and now it's going to be a cloud | Audio: audio_logs/speech_2025-02-12_13-08-03-644.wav
+[2025-02-12_13-08-08-700] Confidence: 0.90 | Text: game platform and distributed computing | Audio: audio_logs/speech_2025-02-12_13-08-08-700.wav
+[2025-02-12_13-08-13-756] Confidence: 0.90 | Text: and basically I have the distrib | Audio: audio_logs/speech_2025-02-12_13-08-13-756.wav
+[2025-02-12_13-08-18-812] Confidence: 0.90 | Text: Computing functionality working so | Audio: audio_logs/speech_2025-02-12_13-08-18-812.wav
+[2025-02-12_13-08-23-868] Confidence: 0.90 | Text: play can you be on a function | Audio: audio_logs/speech_2025-02-12_13-08-23-868.wav
+[2025-02-12_13-08-28-924] Confidence: 0.90 | Text: call the processors on one computer | Audio: audio_logs/speech_2025-02-12_13-08-28-924.wav
+[2025-02-12_13-08-33-981] Confidence: 0.90 | Text: actually send a task to another | Audio: audio_logs/speech_2025-02-12_13-08-33-981.wav
+[2025-02-12_13-08-39-037] Confidence: 0.90 | Text: use all the process servers on that computer | Audio: audio_logs/speech_2025-02-12_13-08-39-037.wav
+[2025-02-12_13-08-44-093] Confidence: 0.90 | Text: and get the results the same as if it rain on your computer | Audio: audio_logs/speech_2025-02-12_13-08-44-093.wav
+[2025-02-12_13-08-49-149] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-08-49-149.wav
+[2025-02-12_13-08-54-205] Confidence: 0.90 | Text: black | Audio: audio_logs/speech_2025-02-12_13-08-54-205.wav
+[2025-02-12_13-08-59-261] Confidence: 0.00 | Text: [Unrecognized Speech] | Audio: audio_logs/speech_2025-02-12_13-08-59-261.wav
+[2025-02-12_13-09-04-317] Confidence: 0.90 | Text: bedtime Pizza software I just took | Audio: audio_logs/speech_2025-02-12_13-09-04-317.wav
+[2025-02-12_13-09-09-373] Confidence: 0.90 | Text: for a long time to get to where it is and then I seems like every time | Audio: audio_logs/speech_2025-02-12_13-09-09-373.wav
+[2025-02-12_13-09-14-429] Confidence: 0.90 | Text: it just seems like every time that I get to a point | Audio: audio_logs/speech_2025-02-12_13-09-14-429.wav
+[2025-02-12_13-09-19-485] Confidence: 0.90 | Text: you're ready to get into the cloud computing stuff and | Audio: audio_logs/speech_2025-02-12_13-09-19-485.wav
+[2025-02-12_13-09-24-541] Confidence: 0.90 | Text: my face resistance and | Audio: audio_logs/speech_2025-02-12_13-09-24-541.wav
+[2025-02-12_13-09-29-597] Confidence: 0.90 | Text: some kind of kind of a pain in the rear | Audio: audio_logs/speech_2025-02-12_13-09-29-597.wav
